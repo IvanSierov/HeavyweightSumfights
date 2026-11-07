@@ -1,0 +1,396 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+Bruce Seldon
+
+Bruce Seldon
+40 8 0
+36 KOs 7 KOs
+18 followers
+Box-pro Box-am All Bouts
+division heavy
+status inactive
+bouts 48
+rounds 201
+KOs 90%
+career 1988-2009
+debut 1988-10-04
+
+ID# 001400
+birth name Bruce Samuel Seldon
+sex male
+alias The Atlantic City Express
+nationality USA
+stance orthodox
+height 6′ 1½″   /   187cm
+reach 78″   /   198cm
+residence Atlantic City, New Jersey, USA
+birth place Atlantic City, New Jersey, USA
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 48 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+2009-07-24 229½ Fres Oquendo 216 30 5 0
+UIC Pavilion, Chicago L-KO 9/10
+event
+bout
+score
+wiki
+2:35    ref: Pete Podgorski   Bulmaro Campuzano Jr   Bill Lerch   Patrick Morley
+Seldon down in 8th & 9th rd.
+2009-05-15 226 Gabe Brown 359 18 9 4
+Harrah's Marina Hotel Casino, Atlantic City W-TKO 5/8
+event
+bout
+score
+wiki
+ref: Earl Morton
+2008-11-07 222¼ Brad Gregory 204¾ 11 1 0
+Ballys Park Place Hotel Casino, Atlantic City W-TKO 2/8
+event
+bout
+score
+wiki
+2:01    ref: David Fields   Debra Barnes   Shafeeq Rashada   Hilton Whitaker
+Gregory down once in both rds.
+2008-09-05 221 Kevin Johnson 242 19 0 1
+Bally's Event Center, Atlantic City L-TKO 5/10
+event
+bout
+score
+wiki
+0:28    ref: Albert Earl Brown   Debra Barnes   Emil Conforti   Bobby Grasso
+2008-05-31 225 Livin Castillo 215 15 5 0
+Showboat Hotel & Casino, Atlantic City W-TKO 5/8
+event
+bout
+score
+wiki
+0:57    ref: Albert Earl Brown   Lynne Carter   Bobby Grasso   George Hill
+2007-03-10 230 Jay Sweetman 226 7 4 0
+Best Western Banquet Hall, Winchester W-KO 2/8
+event
+bout
+score
+wiki
+2007-02-10 235 Marcus Rhode 273½ 31 30 2
+Klein Jewish Comm. Center, Philadelphia W-TKO 1/6
+event
+bout
+score
+wiki
+1:05    ref: Blair Talmadge   Lynne Carter   Richard Hopkins Jr   Steve Weisfeld
+2005-10-28 263 Tye Fields 271 34 1 0
+Orleans Hotel & Casino, Las Vegas L-KO 2/10
+event
+bout
+score
+wiki
+1:14    ref: Kenny Bayless
+2004-05-15 251 Gerald Nobles 233 22 0 0
+Mandalay Bay Resort & Casino, Las Vegas L-TKO 9/10
+event
+bout
+score
+wiki
+0:41    ref: Tony Weeks   Al Lefkowitz   Dalby Shirley   Glenn Trowbridge
+2004-04-09 253 Lenzie Morgan 215½ 14 28 3
+Drexel National Guard Armory, Philadelphia W-TKO 2/6
+event
+bout
+score
+wiki
+2004-03-06 254 Otis Tisdale 226 21 14 1
+Blue Horizon, Philadelphia W-KO 3/6
+event
+bout
+score
+wiki
+0:30    ref: Eddie Cotton
+1996-09-07 229 Mike Tyson 219 44 1 0
+MGM Grand, Las Vegas L-TKO 1/12
+event
+bout
+score
+wiki
+1:49    ref: Richard Steele   Chuck Giampa   Bill Graham   Dave Moretti
+1995-08-19 234 Joe Hipp 233 30 3 0
+MGM Grand, Las Vegas W-TKO 10/12
+event
+bout
+score
+wiki
+1:47    ref: Richard Steele   Jerry Roth 87-84   Arturo Sanchez 88-84   Fernando Viso 88-84
+This fight was stopped due to cuts and excessive swelling around Hipp's eyes.
+1995-04-08 236 Tony Tucker 243 52 2 0
+Caesars Palace, Las Vegas W-RTD 7/12
+event
+bout
+score
+wiki
+3:00    ref: Mills Lane   Duane Ford 67-66   Art Lurie 68-65   Jerry Roth 67-66
+Bout stopped after the 7th due to swelling of Tucker's left eye.
+1994-12-17 230 Bill Corrigan 221 9 7 1
+Coliseo General Rumiñahui, Quito W-KO 1/10
+event
+bout
+score
+wiki
+2:43    ref: Cesar Dominguez   Neftali Andrade   Marco Jurado   Jaime Zola
+1994-07-02 233 Tui Toia 235 12 4 0
+Mirage Hotel & Casino, Las Vegas W-RTD 3/10
+event
+bout
+score
+wiki
+3:00    ref: Jay Nady
+1994-02-19 232 Nathaniel Fitch 225 10 6 0
+Coliseum, Charlotte W-TKO 4/12
+event
+bout
+score
+wiki
+ref: William Connors
+IBF Inter-Continental Heavy
+1993-08-06 232 Greg Page 236 38 11 0
+Coliseo Ruben Rodriguez, Bayamon W-TKO 9/12
+event
+bout
+score
+wiki
+0:49    ref: Roberto Ramirez Sr   Al Bennett   Ernie Green   Cesar Ramos
+IBF Inter-Continental Heavy (supervisor: Robert Lee Jr)
+1993-04-17 233½ Mike Robinson 221 5 15 1
+Fernwood Resort, Bushkill W-TKO 2/8
+event
+bout
+score
+wiki
+1993-02-15 227 Al Shoffner 231 9 6 0
+Temple University McGonigle Hall, Philadelphia W-TKO 7/10
+event
+bout
+score
+wiki
+ref: Hurley McCall
+1993-01-24 230¾ Alexander Popov 245¾ 10 0 1
+Trump Taj Mahal, Atlantic City W-RTD 2/12
+event
+bout
+score
+wiki
+3:00    ref: James Condon   Frank Brunette   Vincent Rainone   John Stewart
+IBF Inter-Continental Heavy (supervisor: Robert Lee Jr)
+Doctor stops the fight after round 2 due a nose injury suffered by Popov.
+1992-10-14 227 Tony Tubbs 238 30 4 0
+Harrah's Marina Hotel Casino, Atlantic City L-UD 10/10
+event
+bout
+score
+wiki
+ref: Randy Neumann   Lynne Carter 92-97   Tom Kaczmarek 92-97   John Poturaj 91-98
+Seldon was knocked down in round 1
+1992-09-18 226 Perscell Davis 286 14 14 0
+Fernwood Resort, Bushkill W-TKO 3/10
+event
+bout
+score
+wiki
+1992-07-09 224¾ Mike Dixon 212 10 4 0
+Harrah's Casino Hotel, Atlantic City W-UD 10/10
+event
+bout
+score
+wiki
+ref: Randy Neumann   Frank Brunette 99-90   Al DeVito 99-90   Phil Newman 100-89
+Dixon was knocked down in the 7th round.
+1992-06-22 Larry Givens 250 3 32 0
+Allis Plaza Hotel, Kansas City W-TKO 2/?
+event
+bout
+wiki
+1992-04-16 Jimmy Taylor 0 2 0
+Central Plaza Hotel, Oklahoma City W-TKO 1/10
+event
+bout
+score
+wiki
+ref: Steve Thomasson
+1992-02-09 224 Dion Burgess 276 6 4 0
+Harrah's Casino Hotel, Atlantic City W-TKO 1/?
+event
+bout
+wiki
+1992-01-19 226 Jesse Ferguson 235 17 6 0
+Trump Taj Mahal, Atlantic City W-RTD 5/12
+event
+bout
+score
+wiki
+3:00    ref: Rudy Battle   James Condon   Henry Eugene Grant   Eugenia Williams
+IBF Inter-Continental Heavy (vacant) (supervisor: Marian W Muhammad)
+1991-08-09 220 Riddick Bowe 225 25 0 0
+Convention Hall, Atlantic City L-KO 1/10
+event
+bout
+score
+wiki
+1:48    ref: Joe O'Neill   Frank Brunette   Al DeVito   Henry Eugene Grant
+1991-04-18 221 Oliver McCall 221 15 4 0
+Trump Taj Mahal, Atlantic City L-TKO 9/10
+event
+bout
+score
+wiki
+2:37    ref: Tony Perez   Lynne Carter 77-75   Joseph Pasquale 77-75   Vincent Rainone 78-74
+1991-03-22 225½ Perscell Davis 270 14 9 0
+Trump Castle, Atlantic City W-TKO 1/10
+event
+bout
+score
+wiki
+1:07    
+Davis down twice in the 1st round.
+1991-01-11 227 Jose Ribalta 232¼ 31 5 1
+Trump Taj Mahal, Atlantic City W-RTD 3/10
+event
+bout
+score
+wiki
+3:00    ref: Ted Pick
+Seldon down in first round
+1990-11-01 224¾ David Bey 244½ 17 6 0
+Trump Taj Mahal, Atlantic City W-TKO 10/10
+event
+bout
+score
+wiki
+0:38    ref: Tony Orlando   Debra Barnes 90-81   James Condon 90-81   William Kostrub 90-81
+1990-08-16 223 John Morton 238 10 12 0
+Sheraton Hotel, Boston W-TKO 7/?
+event
+bout
+wiki
+1:44    ref: Doug Sherrin
+1990-06-24 214 Tom Sandner 218 9 0 0
+Convention Center, Atlantic City W-RTD 2/8
+event
+bout
+score
+wiki
+3:00    ref: Rafael Ramos   Frank Brunette   Rocky Castellani   Eugenia Williams
+Sandner retired in his corner after the 2nd round
+1990-05-18 223 Ossie Ocasio 221 22 8 1
+Civic Auditorium, San Jose W-UD 8/8
+event
+bout
+score
+wiki
+ref: Marty Sammon   Elmer Costa 80-72   Dave Nelson 78-74   Rudy Ortega 79-73
+1990-04-07 220 Dan Wofford 213 8 8 1
+USA Flea Market, Miami Beach W-UD 6/6
+event
+bout
+score
+wiki
+ref: Armando Garcia    60-54    60-54    59-55
+1990-03-23 225 Jerry Jones 214 7 2 0
+Showboat Hotel & Casino, Atlantic City W-TKO 8/8
+event
+bout
+score
+wiki
+0:42    ref: Arthur Mercante   Frank Cairo   James Condon   Eugenia Williams
+1990-02-18 227 Amos Lisboa
+Casillas 217 0 5 0
+Resorts International, Atlantic City W-KO 1/4
+event
+bout
+score
+wiki
+0:45    ref: Steve Smoger
+1990-01-15 226 Lorenzo Canady 231 7 8 1
+Convention Center, Atlantic City W-RTD 2/6
+event
+bout
+score
+wiki
+3:00    ref: Joe Cortez
+1989-11-28 220 Hassan Shabazz 251 4 3 1
+Alumni Arena, Buffalo W-TKO 5/6
+event
+bout
+score
+wiki
+0:08    ref: Frank Adams
+Seldon fights most of the fight with a broken hand
+1989-09-15 222 Isaac Poole 222 0 1 0
+Jai Alai Fronton, Miami W-KO 1/4
+event
+bout
+score
+wiki
+1989-08-22 218¼ Ezra Sellers 200 debut
+Showboat Hotel & Casino, Atlantic City W-TKO 2/4
+event
+bout
+score
+wiki
+John Poturaj
+Sellers down in 1st and 2nd. Pro debut for Sellers.
+1989-06-25 215¼ Warren Thompson 227 3 4 0
+Convention Center, Atlantic City W-TKO 3/4
+event
+bout
+score
+wiki
+ref: Earl Morton
+1989-05-30 217 Jesse McGhee 232¾ 6 3 0
+Trump Castle, Atlantic City W-UD 4/4
+event
+bout
+score
+wiki
+ref: Ted Pick   Al DeVito 39-36   Milo Savage 40-35   John Stewart 39-37
+1989-03-21 209¾ Mike Robinson 216½ 3 3 1
+Trump Castle, Atlantic City W-TKO 3/4
+event
+bout
+score
+wiki
+1988-11-23 217 Tyrone Barwell 203 debut
+Convention Hall, Philadelphia W-KO 1/4
+event
+bout
+score
+wiki
+1988-10-04 210 Joel McGraw 201½ debut
+Atlantis Hotel & Casino, Atlantic City W-TKO 1/4
+event
+bout
+score
+wiki
+Frank Cairo   Henry Eugene Grant   Vincent Rainone
+Pro debut for both.
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

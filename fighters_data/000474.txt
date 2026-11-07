@@ -1,0 +1,506 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+Mike Tyson
+
+Mike Tyson
+50 7 0
+44 KOs 5 KOs
+1,678 followers
+Box-pro Box-am All Bouts
+division heavy
+status inactive
+bouts 59
+rounds 223
+KOs 88%
+career 1985-2024
+debut 1985-03-06
+
+ID# 000474
+birth name Michael Gerard Tyson
+sex male
+alias Iron
+nationality USA
+stance orthodox
+height 5′ 10″   /   178cm
+reach 71″   /   180cm
+residence Henderson, Nevada, USA
+birth place Brooklyn, New York, USA
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 59 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+2024-11-15 228½ Jake Paul 227¼ 10 1 0
+AT&T Stadium, Arlington L-UD 8/8 x 2
+event
+bout
+score
+wiki
+ref: Mark Calo-oy   Laurence Cole 73-79   David Iacobucci 72-80   Jesse Reyes 73-79
+contested using 14 ounce gloves
+2005-06-11 233 Kevin McBride 271 32 4 1
+MCI Center, Washington L-RTD 6/10
+event
+bout
+score
+wiki
+3:00    ref: Joe Cortez   Paul Artisst 55-57   Tammye Jenkins 57-55   Steve Rados 57-55
+Tyson deducted two point rounds for an intentional headbutt in round six.
+2004-07-30 233 Danny Williams 265 31 3 0
+Freedom Hall State Fairground, Louisville L-KO 4/10
+event
+bout
+score
+wiki
+2:51    ref: Dennis Alfred   Dan McLellan 30-26   Johnny Monson 30-25   Steve Ryan 30-25
+2003-02-22 225¾ Clifford Etienne 222¾ 24 1 1
+The Pyramid, Memphis W-KO 1/10
+event
+bout
+score
+wiki
+0:49    ref: Bill Clancy   Richard Barth   Fred Steinwinder III   Ken Whitehead
+2002-06-08 234 Lennox Lewis 249¼ 39 2 1
+The Pyramid, Memphis L-KO 8/12
+event
+bout
+score
+wiki
+2:25    ref: Eddie Cotton   Alfred Buqwana 64-68   Anek Hongtongkam 64-68   Bob Logist 64-68
+IBF World Heavy (supervisor: Linda Torres)
+IBO World Heavy (supervisor: Ed Levine)
+WBC World Heavy (supervisor: Rex Walker)
+Lewis lost one point in round four for pushing Tyson down.
+2001-10-13 239¾ Brian Nielsen 259¾ 62 1 0
+Parken, Copenhagen W-RTD 6/10
+event
+bout
+score
+wiki
+3:00    ref: Steve Smoger   Marty Denkin   Erkki Meronen   Daniel Van de Wiele
+2000-10-20 222 Andrew Golota 240 36 4 0
+The Palace, Auburn Hills NC-NC 2/10
+event
+bout
+score
+wiki
+3:00    ref: Frank Garza   Rosemary Grable   Bernard Teachout   Brad Wright
+Golota down in 1st. Michigan Commission changes the result from a TKO after 2 for Tyson to an NC, due to Tyson testing positive for marijuana after the fight.
+2000-06-24 225 Lou Savarese 241¼ 39 3 0
+Hampden Park, Glasgow W-TKO 1/10
+event
+bout
+score
+wiki
+0:38    ref: John Coyle
+2000-01-29 223½ Julius Francis 244½ 21 7 0
+M.E.N. Arena, Manchester W-TKO 2/10
+event
+bout
+score
+wiki
+1:03    ref: Roy Francis
+Francis down twice in the 1st and three times in the 2nd.
+1999-10-23 223 Orlin Norris 218 50 5 0
+MGM Grand, Las Vegas NC-NC 1/10
+event
+bout
+score
+wiki
+3:00    ref: Richard Steele   Art Lurie   Dave Moretti   Dalby Shirley
+1999-01-16 223 Frans Botha 233¾ 39 1 0
+MGM Grand, Las Vegas W-KO 5/10
+event
+bout
+score
+wiki
+2:59    ref: Richard Steele   Bill Graham 36-39   Dave Moretti 35-40   Dalby Shirley 35-40
+1997-06-28 218 Evander Holyfield 218 33 3 0
+MGM Grand, Las Vegas L-DQ 3/12
+event
+bout
+score
+wiki
+3:00    ref: Mills Lane   Duane Ford 26-29   Chuck Giampa 26-29   Jerry Roth 26-29
+Tyson disqualified for twice biting Holyfield's ears, claiming he was retaliating to head-butting by Holyfield.
+1996-11-09 222 Evander Holyfield 215 32 3 0
+MGM Grand, Las Vegas L-TKO 11/12
+event
+bout
+score
+wiki
+0:37    ref: Mitch Halpern   Jerry Roth 92-96   Dalby Shirley 92-96   Frederico Vollmer 93-100
+1996-09-07 219 Bruce Seldon 229 33 3 0
+MGM Grand, Las Vegas W-TKO 1/12
+event
+bout
+score
+wiki
+1:49    ref: Richard Steele   Chuck Giampa   Bill Graham   Dave Moretti
+1996-03-16 220 Frank Bruno 247 40 4 0
+MGM Grand, Las Vegas W-TKO 3/12
+event
+bout
+score
+wiki
+0:50    ref: Mills Lane   Anek Hongtongkam 20-17   Larry O'Connell 20-17   Jerry Roth 20-17
+WBC World Heavy (supervisor: Edward Thangarajah)
+Bruno deducted one point in round two for holding and hitting.
+1995-12-16 219 Buster Mathis Jr 224 20 0 0
+Core States Spectrum, Philadelphia W-KO 3/12
+event
+bout
+score
+wiki
+2:32    ref: Frank Cappuccino   Adalaide Byrd   Ron Greenley   Carol Polis
+1995-08-19 220 Peter McNeeley 224 36 1 0
+MGM Grand, Las Vegas W-DQ 1/10
+event
+bout
+score
+wiki
+1:29    ref: Mills Lane   Duane Ford   Chuck Giampa   Bill Graham
+McNeeley knocked down twice
+1991-06-28 216 Donovan Ruddock 238 25 2 1
+Mirage Hotel & Casino, Las Vegas W-UD 12/12
+event
+bout
+score
+wiki
+ref: Mills Lane   Chuck Giampa 113-109   Art Lurie 114-108   Dalby Shirley 114-108
+1991-03-18 217 Donovan Ruddock 228 25 1 1
+Mirage Hotel & Casino, Las Vegas W-TKO 7/12
+event
+bout
+score
+wiki
+2:22    ref: Richard Steele   Chuck Giampa 59-53   Dave Moretti 59-53   Jerry Roth 59-53
+1990-12-08 217¾ Alex Stewart 218 26 1 0
+Convention Center, Atlantic City W-TKO 1/10
+event
+bout
+score
+wiki
+2:27    ref: Frank Cappuccino   Rocky Castellani   Henry Eugene Grant   John Stewart
+1990-06-16 217 Henry Tillman 215 20 4 0
+Caesars Palace, Las Vegas W-KO 1/10
+event
+bout
+score
+wiki
+2:47    ref: Richard Steele   Chuck Giampa   Art Lurie   Dalby Shirley
+1990-02-11 220½ James Douglas 231½ 28 4 1
+Tokyo Dome L-KO 10/12
+event
+bout
+score
+wiki
+1:23    ref: Octavio Meyran   Ken Morita 87-86   Larry Rozadilla 82-88   Masakazu Uchida 86-86
+IBF World Heavy
+WBC World Heavy (supervisor: Elias Ghanem)
+1989-07-21 219¼ Carl Williams 218 22 2 0
+Convention Center, Atlantic City W-TKO 1/12
+event
+bout
+score
+wiki
+1:33    ref: Randy Neumann   Rocky Castellani   Chuck Giampa   Richard F Murry
+IBF World Heavy
+WBC World Heavy
+1989-02-25 218 Frank Bruno 228 32 2 0
+Las Vegas Hilton, Hilton Center, Las Vegas W-TKO 5/12
+event
+bout
+score
+wiki
+2:55    ref: Richard Steele   Rodolfo Maldonado 40-34   Omar Mintun Sr 40-34   Jerry Roth 40-35
+IBF World Heavy (supervisor: Alvin Goodman)
+WBC World Heavy (supervisor: James Nave)
+Bruno penalized one point in the 1st for holding and he was also dropped in the 1st.
+1988-06-27 218¼ Michael Spinks 212¼ 31 0 0
+Convention Hall, Atlantic City W-KO 1/12
+event
+bout
+score
+wiki
+1:31    ref: Frank Cappuccino   Rocky Castellani   Eva Shain   John Stewart
+IBF World Heavy (supervisor: Bill Brennan)
+WBC World Heavy (supervisor: Elias Ghanem)
+1988-03-21 216 Tony Tubbs 238 24 1 0
+Tokyo Dome W-KO 2/12
+event
+bout
+score
+wiki
+2:54    ref: Arthur Mercante   Ken Morita 10-10   Larry Rozadilla 9-10   Masakazu Uchida 10-9
+IBF World Heavy
+WBC World Heavy (supervisor: Gabriel Penagaricano)
+1988-01-22 215¾ Larry Holmes 225¾ 48 2 0
+Convention Center, Atlantic City W-TKO 4/12
+event
+bout
+score
+wiki
+2:55    ref: Joe Cortez   Nicasio Lorenzo Drake 30-27   Rudy Ortega 29-28   Charlie Spina 29-28
+IBF World Heavy
+WBC World Heavy (supervisor: Duane Ford)
+1987-10-16 216 Tyrell Biggs 228¾ 15 0 0
+Convention Hall, Atlantic City W-TKO 7/15
+event
+bout
+score
+wiki
+2:59    ref: Tony Orlando   Frank Brunette 60-52   John Stewart 60-54   Al Wilensky 60-54
+IBF World Heavy (supervisor: Robert Lee)
+WBC World Heavy (supervisor: James Binns)
+1987-08-01 221 Tony Tucker 221 34 0 0
+Las Vegas Hilton, Hilton Center, Las Vegas W-UD 12/12
+event
+bout
+score
+wiki
+ref: Mills Lane   Bill Graham 116-112   Phil Newman 119-111   Julio Roldan 118-113
+IBF World Heavy (supervisor: Robert Lee)
+WBC World Heavy (supervisor: Jose Sulaiman)
+1987-05-30 218¾ Pinklon Thomas 217¾ 29 1 1
+Las Vegas Hilton, Outdoor Arena, Las Vegas W-TKO 6/12
+event
+bout
+score
+wiki
+2:00    ref: Carlos Padilla   Harry Gibbs 49-46   Dalby Shirley 49-46   Gordon Volkman 50-44
+WBC World Heavy (supervisor: Arlen Bynum)
+1987-03-07 219 James Smith 233 19 5 0
+Las Vegas Hilton, Outdoor Arena, Las Vegas W-UD 12/12
+event
+bout
+score
+wiki
+ref: Mills Lane   Jose Juan Guerra 119-107   Dalby Shirley 119-107   Lou Tabat 120-106
+WBC World Heavy (supervisor: Ray Clarke)
+1986-11-22 221¼ Trevor Berbick 218½ 31 4 1
+Hilton Hotel, Las Vegas W-TKO 2/12
+event
+bout
+score
+wiki
+2:35    ref: Mills Lane   Harry Gibbs 10-8   Dave Moretti 10-9   Rudy Ortega 10-9
+WBC World Heavy
+Berbick knocked down twice in round 2. After trying to rise from the second knockdown he fell another two times.
+1986-09-06 221½ Alfonzo Ratliff 201 21 3 0
+Las Vegas Hilton, Hilton Center, Las Vegas W-TKO 2/10
+event
+bout
+score
+wiki
+1:41    ref: Davey Pearl   Patricia Morse Jarman   Dave Moretti   Paul Smith
+1986-08-17 213 Jose Ribalta 211½ 22 3 1
+Trump Plaza Hotel, Atlantic City W-TKO 10/10
+event
+bout
+score
+wiki
+1:37    ref: Rudy Battle   Phil Newman   John Stewart   Richard Strange
+Ribalta down in 2nd, 8th, and 10th.
+1986-07-26 217 Marvis Frazier 210½ 16 1 0
+Civic Center, Glens Falls W-TKO 1/10
+event
+bout
+score
+wiki
+0:30    ref: Joe Cortez   George Colon   Bill Graham   Wynn Kintz
+1986-07-11 219¾ Lorenzo Boyd 198¼ 16 5 0
+Stevensville Hotel, Swan Lake W-KO 2/10
+event
+bout
+score
+wiki
+1:43    ref: Sid Rubenstein
+1986-06-28 217 William Hosea 215 12 3 0
+Houston Field House, Troy W-KO 1/10
+event
+bout
+score
+wiki
+2:03    ref: Harry Papacharalambous
+1986-06-13 217 Reggie Gross 218 18 4 0
+Madison Square Garden, New York W-TKO 1/10
+event
+bout
+score
+wiki
+2:36    ref: Johnny LoBianco   Bill Graham   Artie Levine   Eva Shain
+1986-05-20 215¼ Mitch Green 225 16 1 1
+Madison Square Garden, New York W-UD 10/10
+event
+bout
+score
+wiki
+ref: Luis Rivera   George Colon 9-1   George DeGabriel 8-2   Paddy Dolan 9-1
+1986-05-03 215 James Tillis 207¾ 31 8 0
+Civic Center, Glens Falls W-UD 10/10
+event
+bout
+score
+wiki
+ref: Joe Cortez   Bernie Friedkin 6-4   Tony Moret 8-2   Al Reid 6-4
+Tillis down in 4th.
+1986-03-10 220½ Steve Zouski 210 25 9 0
+Nassau Coliseum, Uniondale W-KO 3/10
+event
+bout
+score
+wiki
+2:39    ref: Arthur Mercante   Tony Castellano   Bill Graham   Victor Suarez
+1986-02-16 217 Jesse Ferguson 211¾ 14 1 0
+Rensselaer Polytechnic Institute, Troy W-TKO 6/10
+event
+bout
+score
+wiki
+1:19    ref: Luis Rivera   Don Ackerman   Wynn Kintz   Eva Shain
+Ferguson, while down in 5th, was disqualified for excessive holding. However the official result given by the New York State Athletic Commission is a TKO.
+1986-01-24 215 Mike Jameson 236¼ 13 10 0
+Trump Plaza Hotel, Atlantic City W-TKO 5/8
+event
+bout
+score
+wiki
+0:46    ref: Joe Cortez   Tom Kaczmarek   Phil Newman   John Stewart
+Jameson down in 4th and 5th
+1986-01-11 217 David Jaco 210 19 5 0
+Empire State Plaza Convention Center, Albany W-TKO 1/10
+event
+bout
+score
+wiki
+2:16    
+Jaco was down three times, triggering the three knockdown rule
+1985-12-27 219 Mark Young 206¾ 8 7 0
+Latham Coliseum, Latham W-TKO 1/10
+event
+bout
+score
+wiki
+0:50    ref: Sid Rubenstein
+1985-12-06 215 Sammy Scaff 250 13 6 0
+Felt Forum, New York W-TKO 1/10
+event
+bout
+score
+wiki
+1:19    ref: Freddie Ucci   Bernie Friedkin   Bill Graham   Eva Shain
+Scaff down once
+1985-11-22 221 Conroy Nelson 216 15 7 2
+Latham Coliseum, Latham W-TKO 2/8
+event
+bout
+score
+wiki
+0:30    
+Nelson suffered a broken nose.
+1985-11-13 219 Eddie Richardson 212 10 2 0
+Ramada-Houston Hotel, Houston W-KO 1/8
+event
+bout
+score
+wiki
+1:17    ref: Barry Yeats
+1985-11-01 221 Sterling Benjamin 227 5 6 0
+Latham Coliseum, Latham W-TKO 1/8
+event
+bout
+score
+wiki
+1985-10-25 217 Robert Colay 224¼ 7 7 1
+Atlantis Hotel & Casino, Atlantic City W-KO 1/8
+event
+bout
+score
+wiki
+0:37    ref: Ted Pick   Lynne Carter   Richard F Murry   Phil Newman
+1985-10-09 215¾ Donnie Long 215¾ 15 3 0
+Trump Casino Hotel, Atlantic City W-TKO 1/6
+event
+bout
+score
+wiki
+1:28    ref: Frank Cappuccino   Lynne Carter   Richard F Murry   Charlie Spina
+1985-09-05 219½ Michael Johnson 196 11 5 0
+Atlantis Hotel & Casino, Atlantic City W-KO 1/6
+event
+bout
+score
+wiki
+0:39    ref: Frank Cappuccino   Lynne Carter   Tom Kaczmarek   Ted Larve
+1985-08-15 213½ Lorenzo Canady 203½ 3 0 0
+Resorts International, Atlantic City W-KO 1/6
+event
+bout
+score
+wiki
+1:05    ref: Joe Cortez   Richard F Murry   Phil Newman   Richard Strange
+1985-07-19 217¼ Larry Sims 217 3 16 2
+Mid-Hudson Civic Center, Poughkeepsie W-KO 3/6
+event
+bout
+score
+wiki
+2:04    ref: Joe Cortez   Don Ackerman   Pete Heller   Ted Wint
+1985-07-11 215¾ John Alderson 226½ 3 0 0
+Trump Casino Hotel, Atlantic City W-RTD 2/6
+event
+bout
+score
+wiki
+3:00    ref: Frank Cappuccino   Frank Cairo   Tom Kaczmarek   Richard F Murry
+1985-06-20 217 Ricardo Spain 184¾ 1 0 0
+Resorts International, Atlantic City W-TKO 1/6
+event
+bout
+score
+wiki
+0:39    ref: Joe O'Neill   Rocky Castellani   Henry Eugene Grant   Milo Savage
+Spain down twice
+1985-05-23 212 Don Halpin 212 10 18 0
+Empire State Plaza Convention Center, Albany W-KO 4/6
+event
+bout
+score
+wiki
+1985-04-10 214¼ Trent Singleton 198½ 1 3 0
+Empire State Plaza Convention Center, Albany W-TKO 1/4
+event
+bout
+score
+wiki
+1985-03-06 214 Hector Merced 199¾ 0 3 0
+Empire State Plaza Convention Center, Albany W-TKO 1/4
+event
+bout
+score
+wiki
+1:47    ref: Luis Rivera
+Pro debut for Tyson; Merced fought as Hector Mercedes
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

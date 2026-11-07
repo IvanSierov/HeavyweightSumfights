@@ -1,0 +1,330 @@
+	date ↕	
+lbs ↓
+lbs ↓
+w-l-d	last 6		result	rounds		
+1892-09-07	212		James J Corbett	178	8 0 2	last 6 winlast 6 drawlast 6 winlast 6 winlast 6 last 6 win	Olympic Club, New Orleans	L-KO	21/?		
+event
+ 
+bout
+ 
+wiki
+ 1:30    ref: Professor John Duffy
+World Heavyweight Title
+1887-01-18	229		Patsy Cardiff	185	21 0 6	last 6 winlast 6 drawlast 6 winlast 6 winlast 6 drawlast 6 win	Washington Roller Rink, Minneapolis	D-PTS	6/6		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+ref: Pat Sullivan
+Sullivan broke his left arm early in the 1st round.
+According to the St Paul Daily Globe, Cardiff did most of the fighting and should have received the decision.
+1886-11-13	215		Paddy Ryan	210	debut		Mechanic's Pavilion, San Francisco	W-KO	3/?		
+event
+ 
+bout
+ 
+wiki
+1886-09-18			Frank Herald		4 0 0	last 6 no boutlast 6 no boutlast 6 winlast 6 winlast 6 winlast 6 win	Coliseum Rink, Pittsburgh	W-TD	2/?		
+event
+ 
+bout
+ 
+wiki
+ref: Johnny Newell
+Police stopped this fight in the 2nd round after Herald was dropped. Referee awarded decision to Sullivan as per agreement that allowed for a decision if there was a police stoppage.
+1885-08-29	208		Dominick McCaffrey	167½	7 2 3	last 6 drawlast 6 winlast 6 winlast 6 drawlast 6 winlast 6 	Chester Drving Park, near Cinncinati	W-PTS	7/6		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+Scheduled as a 6-rounder, but owing to a mistake, a 7th round was fought. Hard Gloves. The August 30, 1885 Sunday Boston Globe article states that the referee declared Sullivan the winner by 7th round foul (pages 1 and 2). The time consumed in the fight was 26 minutes 20 seconds. Four rounds were fought of 3 minutes each; one of 3 minutes 15 seconds; one of 1 minute and 45 seconds. Six minutes were lost between rounds.
+1885-06-13	238		Jack Burke	170	16 1 3	last 6 drawlast 6 winlast 6 winlast 6 drawlast 6 last 6 win	Driving Park, Chicago	W-PTS	5/5		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+ref: Sherman Thurston
+Jack Burke "The Irish Lad" was only a middleweight, giving away height, reach and 67 pounds but managed to stay the distance despite numerous fouls by Sullivan.
+1885-01-19			Paddy Ryan		debut		Madison Square Garden, New York	NC-NC	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+1885-01-12			Alf Greenfield		4 3 0	last 6 winlast 6 winlast 6 losslast 6 winlast 6 winlast 6 loss	Institute Hall, Boston	W-PTS	4/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+ref: Jimmy Colville
+Forty-foot ring. Referee decision.
+1884-11-18	198		Alf Greenfield	170	4 2 0	last 6 losslast 6 winlast 6 winlast 6 losslast 6 winlast 6 win	Madison Square Garden, New York	W-TD	2/?		
+event
+ 
+bout
+ 
+wiki
+ref: Charles Johnston
+Police stopped the bout and arrested the fighters. Announcer Billy Williams declared Sullivan the winner.
+1884-11-10			John Laflin	205	debut		New York	W-KO	4/?		
+event
+ 
+bout
+ 
+wiki
+Hybrid rules. After being dropped in the 1st round, Laflin was given 30 seconds to recover, in LPR fashion, before continuing.
+1884-05-02			Enos Phillips	150	debut		Nashville	W-KO	4/?		
+event
+ 
+bout
+ 
+wiki
+This bout was 4 rounds if calculated based on LPR rules, but only 1 round lasting 2 minues under Queensberry rules.
+1884-05-01			William Fleming		debut		Memphis	W-KO	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+Sullivan was offering $1000 to anyone who could stay 4 rounds with him.
+1884-04-29			Dan Henry	190	debut		Hot Springs	W-KO	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+1884-04-10			Al Marx		debut		Grand Opera House, Galveston	W-KO	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+1884-03-06			George M Robinson		1 0 0	last 6 no boutlast 6 no boutlast 6 no boutlast 6 no boutlast 6 no boutlast 6 win	Mechanic's Pavilion, San Francisco	W-DQ	4/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+Robinson went down 51-66 times in 4 rounds until finally disqualified for going down without being hit.
+1884-02-06			James Lang		debut		Seattle	W-KO	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+1884-02-01	190		Sylvester Le
+Gouriff	300	debut		Astoria	W-KO	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+1884-01-12	225		Fred Robinson	153	debut		Butte	W-KO	2/?		
+event
+ 
+bout
+ 
+wiki
+1883-12-04			Mike Sheehan	190	debut		Davenport	W-TKO	1/?		
+event
+ 
+bout
+ 
+wiki
+1883-11-26	226		Morris Haffey	195	debut		Market Hall, Saint Paul	W-KO	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+1883-11-03			Jim Miles		debut		Flanagan's Hall, East Saint Louis	W-TKO	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+Sullivan offfering $500 to anyone who could stay 4 rounds with him
+1883-10-17			James McCoy		1 0 0	last 6 no boutlast 6 no boutlast 6 no boutlast 6 no boutlast 6 no boutlast 6 win	McKeesport	W-KO	1/?		
+event
+ 
+bout
+ 
+wiki
+1883-08-06	205		Herbert Maori Slade	201	0 1 0	last 6 last 6 last 6 last 6 last 6 last 6 	Madison Square Garden, New York	W-TKO	3/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+The exotic Maori was basically a large punching bag. Sullivan put Slade down several times without much resistance. Police intervened in round three but Slade indicated he'd had enough. It was obvious Slade had no business in the ring with any real pugilist.
+1883-05-14	190		Charlie Mitchell	150	15 0 2	last 6 winlast 6 winlast 6 winlast 6 winlast 6 winlast 6 win	Madison Square Garden, New York	W-TKO	3/?		
+event
+ 
+bout
+ 
+wiki
+Mitchell knocked Sullivan down in the 1st round
+1882-11-17			P J Rentzler		debut		Theatre Comique, Washington	W-TKO	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+Sullivan was offering $100 to anyone who could stay 4 rounds with him.
+Most reports had Sullivan fighting Jordan Rennsalear, which seems a variant of the name in the record
+1882-10-30			Charley ODonnell		debut		McCormick Music Hall, Chicago	W-KO	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+1882-10-16			S P Stockton	175	debut		Academy of Music, Fort Wayne	W-KO	2/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+1882-09-23			Henry Higgins	194	debut		St. James A.C., Buffalo	W-TKO	3/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+1882-07-04			Jimmy Elliot		1 0 0	last 6 no boutlast 6 no boutlast 6 no boutlast 6 no boutlast 6 no boutlast 6 win	Brooklyn	W-KO	4/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+ 1:30    
+Elliot was a former claimant to the Heavyweight Championship of America
+1882-04-20			John McDermont		debut		Grand Opera House, Rochester	W-TKO	3/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+Sullivan offering $100 to anyone who could stay 4 rounds with him
+1881-09-03			Jack Burns	215	debut		Chicago	W-KO	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+1881-08-13	190		Captain James
+Dalton	175	debut			W-KO	4/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+1881-07-21			Dan McCarty		debut		Philadelphia	W-KO	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+MQ Rules; 3-minute rounds with 5-minute rest between rounds; Sullivan was offering $50 to anyone who could stay 4 rounds with him
+1881-07-11	196		Fred Crossley	200	debut		Philadelphia	W-KO	1/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+1881-05-16			John Flood		debut		Yonkers	W-KO	8/?		
+event
+ 
+bout
+ 
+wiki
+LPR bout with hard gloves, lasted 16 minutes total. Fight held on a barge six miles up the Hudson River.
+1881-03-31			Steve Taylor		0 3 0	last 6 no boutlast 6 no boutlast 6 last 6 losslast 6 losslast 6 loss	Harry Hill's, New York	W-TKO	2/4		
+event
+ 
+bout
+ 
+score
+ 
+wiki
+ref: Matt Grace
+1880-12-24	212		Professor John
+Donaldson	160	1 0 0	last 6 no boutlast 6 no boutlast 6 no boutlast 6 no boutlast 6 no boutlast 6 win	Pacific Garden, Cincinnati	W-RTD	10/?		
+event
+ 
+bout
+ 
+wiki
+ref: Pat Murphy
+Scheduled fight to the finish. LPR rules with hard gloves. Cincinnati Daily Gazette reported that nine rounds were fought, lasting 22 minutes, but Cincinnati Daily Inquirer and Cincinnati Commercial (according to Adam Pollack's book) reported 10 rounds. Non-local wires (Chicago Daily Inter Ocean, Indianapolis Sentinel) reported 10 rounds. Kansas City Evening Star reported "on the 10th round Donaldson was too much exhausted to come to the scratch", and also reported Sullivan weighing 192 and Donaldson 164 pounds.
+1880-06-28			George Rooke		0 1 0	last 6 no boutlast 6 no boutlast 6 no boutlast 6 no boutlast 6 no boutlast 6 loss	Howard Athenaeum, Boston	W-KO	3/?		
+event
+ 
+bout
+ 
+wiki
+1879-03-14			John Cocky Woods		debut		Alhambra, Hanover Street, Boston	W-KO	5/?		
+event
+ 
+bout
+ 
+wiki
+Benefit for Dan Dwyer -- In 1870, Woods was already being described as an "old prizefighter"
+1879-03-13	196		Jack Curley	193	debut		Terrace Garden Theatre, Boston	W-KO	?/?		
+event
+ 
+bout
+ 
+wiki
+Late night show that began on Mar 13 but went into the early morning hours of Mar 14. Bout took place between 1 and 2 a.m. Sullivan won this fight to the finish (likely LPR rules with gloves) in 1 hour and 14 minutes. Prize money was $250.

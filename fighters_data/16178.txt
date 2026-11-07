@@ -1,0 +1,419 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+Jimmy Ellis
+
+Jimmy Ellis
+40 12 1
+24 KOs 4 KOs
+24 followers
+Box-pro Box-am All Bouts referee
+division heavy
+status inactive
+bouts 53
+rounds 341
+KOs 60%
+career 1961-1975
+debut 1961-04-19
+
+ID# 016178
+birth name James Albert Ellis
+sex male
+nationality USA
+stance orthodox
+height 6′ 1″   /   185cm
+reach 76″   /   193cm
+residence Louisville, Kentucky, USA
+birth place Louisville, Kentucky, USA
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 53 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+1975-05-06 195 Carl Baker 193 18 23 1
+Orlando Sports Stadium, Orlando W-KO 1/10
+event
+bout
+score
+wiki
+1975-03-02 200¾ Joe Frazier 211 31 2 0
+St.Kilda Junction Oval, Melbourne L-TKO 9/12
+event
+bout
+score
+wiki
+0:59    ref: Bob Foster   Ken Brady   Gus Mercurio
+Fight stopped on advise of Ellis' corner
+1974-11-12 199 Joe Bugner 222 48 6 1
+Empire Pool, Wembley L-PTS 10/10
+event
+bout
+score
+wiki
+ref: Harry Gibbs 96-100
+1974-07-16 193¼ Ron Lyle 215 27 1 1
+Denver Coliseum, Denver L-UD 12/12
+event
+bout
+score
+wiki
+Jerry Bohn 52-59   Jack Cappelli 52-58   Danny Loos 55-59
+1974-03-04 199¼ Larry Middleton 208¼ 21 4 1
+Capitol Center, Landover D-SD 10/10
+event
+bout
+score
+wiki
+ref: Lew Eskin 46-44   Larry Barrett 47-47   Tom Kelly 45-46
+1973-12-12 203 Boone Kirkman 210 30 2 0
+Seattle Center Coliseum, Seattle L-SD 10/10
+event
+bout
+score
+wiki
+ref: Pat McMurtry   Paul Hindman 95-98   John Nenizich 93-97   Clay Nixon 98-97
+1973-10-24 202 Al Jones 202 5 19 2
+Municipal Auditorium, Atlanta W-TKO 7/10
+event
+bout
+score
+wiki
+ref: Norman Paschal
+1973-06-18 199¾ Earnie Shavers 206¼ 44 2 0
+Madison Square Garden, New York L-KO 1/10
+event
+bout
+score
+wiki
+2:39    ref: Harold Valan
+1973-05-05 199½ Rico Brooks 201 11 14 2
+Phoenix Union Montgomery Stadium, Phoenix W-KO 5/10
+event
+bout
+score
+wiki
+0:48    ref: Bud Yellen
+1973-04-14 201 Joe Tiger Harris 192 3 6 2
+Huntington W-KO 2/10
+event
+bout
+score
+wiki
+1973-03-06 202 Charlie Harris 222½ 7 16 1
+Auditorium, Miami Beach W-TKO 1/10
+event
+bout
+score
+wiki
+1:48    ref: Cy Gottfried
+1973-02-21 200 Bob Felstein 204 16 11 1
+Orlando Sports Stadium, Orlando W-KO 2/10
+event
+bout
+score
+wiki
+1972-10-26 196 Harold Carter 181 11 21 2
+Raleigh County Armory, Beckley W-TKO 7/10
+event
+bout
+score
+wiki
+0:37    ref: Cotton White
+1972-09-21 189 Ollie Wilson 218 21 40 0
+St. Josaphat Auditorium, Parma W-TKO 6/10
+event
+bout
+score
+wiki
+ref: Don Gonzalez
+1972-06-13 198 Rico Brooks 213 11 12 1
+Miami Marine Stadium, Key Biscayne W-KO 2/10
+event
+bout
+score
+wiki
+2:50    ref: Eddie Eckert
+1972-05-16 207½ Dick Gosha 190 10 13 0
+Seattle Center Arena, Seattle W-TKO 6/10
+event
+bout
+score
+wiki
+2:55    ref: Whitey Domstad
+The bout was stopped shortly after Gosha was given a standing eight count.
+1971-07-26 189 Muhammad Ali 220½ 31 1 0
+Astrodome, Houston L-TKO 12/12
+event
+bout
+score
+wiki
+2:10    ref: Jay Edson 102-110   Earl Keel 102-108   Ernie Taylor 104-107
+North American Boxing Federation Heavy (vacant)
+1971-05-10 191 George Chuvalo 218½ 63 16 2
+Maple Leaf Gardens, Toronto W-UD 10/10
+event
+bout
+score
+wiki
+ref: Sammy Luftspring 48-46   Tony Canzano 49-43   Jackie Silvers 48-44
+1971-03-02 198 Tony Doyle 207 36 8 1
+Auditorium, Miami Beach W-KO 10/10
+event
+bout
+score
+wiki
+2:42    ref: Cy Gottfried
+1970-11-10 197½ Roberto Davila 201 21 19 0
+Auditorium, Miami Beach W-TKO 7/10
+event
+bout
+score
+wiki
+2:26    ref: Dick Tobin
+1970-02-16 201 Joe Frazier 205 24 0 0
+Madison Square Garden, New York L-RTD 4/15
+event
+bout
+score
+wiki
+ref: Tony Perez   Jack Bloom   Tony Castellano
+NYSAC World Heavy
+WBC World Heavy (vacant)
+1968-09-14 198 Floyd Patterson 188½ 46 6 1
+Råsunda Fotbollsstadion, Stockholm W-PTS 15/15
+event
+bout
+score
+wiki
+ref: Harold Valan 9-6
+1968-04-27 197 Jerry Quarry 195 26 1 4
+Coliseum Arena, Oakland W-MD 15/15
+event
+bout
+score
+wiki
+ref: Elmer Costa 7-6   Fred Apostoli 10-5   Rudy Ortega 6-6
+1967-12-02 194¾ Oscar Bonavena 208½ 31 3 0
+Freedom Hall, Louisville W-UD 12/12
+event
+bout
+score
+wiki
+ref: Herman Dutreix 56-53   Sidney Baer 55-54   Hector Chaumont 59-53
+WBA Heavyweight Elimination Tournament (Ellis-Bonavena vs. Quarry-Spencer)
+Bonavena was floored in rounds 3 and 10
+1967-08-05 194½ Leotis Martin 192 24 1 0
+Astrodome, Houston W-TKO 9/12
+event
+bout
+score
+wiki
+1:43    ref: Ernie Taylor
+Elimination Tournament for WBA Heavyweight Title
+(Ellis-Martin/Bonavena-Mildenberger vs. Quarry-Patterson/Spencer-Terrell)
+1967-03-22 190½ Johnny Persol 179 17 3 1
+Madison Square Garden, New York W-KO 1/10
+event
+bout
+score
+wiki
+2:44    ref: Barney Smith
+1966-11-14 185½ Tommy Sims 174 35 28 4
+Astrodome, Houston W-KO 1/6
+event
+bout
+score
+wiki
+1966-10-27 183 Eddie Dembry 190 10 2 0
+Fairgrounds, Louisville W-KO 1/8
+event
+bout
+score
+wiki
+1966-09-10 187 Billy Daniels 189 20 14 1
+Waldstadion/Radrennbahn, Frankfurt W-PTS 6/6
+event
+bout
+score
+wiki
+1966-05-21 183¼ Leweni Waqa 181 19 4 1
+Arsenal Football Stadium, Highbury W-KO 1/10
+event
+bout
+score
+wiki
+ref: Harry Gibbs
+1966-03-29 192 Hubert Hilton 194 13 3 2
+Maple Leaf Gardens, Toronto W-PTS 8/8
+event
+bout
+score
+wiki
+1965-11-15 176½ Chuck Leslie 183 18 10 2
+Hacienda Hotel, Las Vegas W-UD 10/10
+event
+bout
+score
+wiki
+ref: Harold Buck 49-43   Fred Glass 48-43   John Romero 48-43
+1965-05-25 176 Joe Blackwood 175 66 23 9
+Central Maine Civic Center, Lewiston W-TKO 1/?
+event
+bout
+wiki
+1964-11-30 160½ George Benton 162¼ 52 9 1
+Arena, Philadelphia L-MD 10/10
+event
+bout
+score
+wiki
+ref: Zach Clayton 45-46   Dave Beloff 45-46   Pete Pantaleo 46-46
+1964-10-21 164 Don Fullmer 162 32 11 2
+Convention Center, Louisville L-SD 10/10
+event
+bout
+score
+wiki
+ref: Don Asbury   Sidney Baer   Harlow Edwards
+1964-04-21 159 Joe Spencer 161 5 2 0
+Phoenix Hotel Ballroom, Lexington W-KO 1/8
+event
+bout
+score
+wiki
+1:49    ref: Billy Graham   Mickey Walker
+Spencer substituted for Jimmy Christopher.
+1964-02-28 155¾ Rubin Carter 157¼ 18 4 0
+Madison Square Garden, New York L-UD 10/10
+event
+bout
+score
+wiki
+ref: Joe LoScalzo 2-7   Frank Forbes 3-7   Jimmy Riccio 3-6
+1963-09-27 159½ Luis Gutierrez 160¼ 50 5 3
+Convention Center, Louisville W-PTS 10/10
+event
+bout
+score
+wiki
+1963-06-18 163 Johnny Halafihi 168½ 31 11 5
+Wembley Stadium, Wembley W-KO 1/10
+event
+bout
+score
+wiki
+ref: Harry Gibbs
+Boxing News June 21, 1963
+1962-12-03 167 LeRoy Green 178 20 15 2
+Columbia Gymnasium Arena, Louisville W-UD 10/10
+event
+bout
+score
+wiki
+ref: Don Asbury 49-44   Bill Cook 49-44   Harlow Edwards 49-44
+1962-09-01 162 Henry Hank 165¾ 52 16 3
+Freedom Hall, Louisville L-UD 10/10
+event
+bout
+score
+wiki
+ref: Art Gering 45-47   Walter Beck 46-47   Tom Nuckles 44-47
+1962-06-13 157 Charlie Glover 160 13 10 1
+Phoenix Hotel Ballroom, Lexington W-UD 4/4
+event
+bout
+score
+wiki
+1962-06-13 157 Sammy Poe 158 2 2 0
+Phoenix Hotel Ballroom, Lexington W-UD 4/4
+event
+bout
+score
+wiki
+1962-06-07 158¾ Rudolph Bent 155½ 39 29 4
+State Fairgrounds, Louisville W-TKO 2/10
+event
+bout
+score
+wiki
+1:17    ref: Art Gering
+1962-05-04 159½ Holly Mims 157¾ 57 22 6
+Freedom Hall, Louisville W-UD 10/10
+event
+bout
+score
+wiki
+ref: Don Asbury 48-46   Walter Beck 49-44   Kenny Pastor 48-47
+1962-02-17 158¾ Johnny Alford 159½ 14 3 3
+Madison Square Garden, New York W-MD 6/6
+event
+bout
+score
+wiki
+1962-01-11 164½ Rory Calhoun 167 45 14 2
+Jefferson County Armory, Louisville W-KO 1/10
+event
+bout
+score
+wiki
+1:47    ref: Don Asbury
+1961-11-29 161 Holly Mims 161 56 22 6
+Freedom Hall, Louisville L-UD 10/10
+event
+bout
+score
+wiki
+ref: Art Gering 47-49   Walter Beck 46-47   Tom Nuckles 46-47
+1961-10-07 160 Clarence Riley 163 18 25 5
+Freedom Hall, Louisville W-RTD 1/8
+event
+bout
+score
+wiki
+Riley retired in his corner with a cut eye.
+1961-08-22 159½ Wilf Greaves 160½ 34 19 1
+Fairgrounds Stadium, Louisville W-MD 10/10
+event
+bout
+score
+wiki
+ref: Art Gering 48-44   Ray Bear 46-46   Kenny Pastor 49-41
+1961-07-22 162 Johnny Morris 164 21 4 0
+Freedom Hall, Louisville W-SD 6/6
+event
+bout
+score
+wiki
+1961-05-05 159 Gene Leslie 156 12 3 1
+Jefferson County Armory, Louisville W-UD 8/8
+event
+bout
+score
+wiki
+1961-04-19 157¼ Arley Seifer 161 15 12 1
+Freedom Hall, Louisville W-TKO 3/6
+event
+bout
+score
+wiki
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

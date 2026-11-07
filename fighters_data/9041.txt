@@ -1,0 +1,527 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+Max Schmeling
+
+Max Schmeling
+56 10 4
+39 KOs 5 KOs
+45 followers
+Box-pro referee
+division heavy
+status inactive
+bouts 70
+rounds 479
+KOs 69.64%
+career 1924-1948
+debut 1924-08-02
+
+ID# 009041
+sex male
+alias Black Uhlan of the Rhine
+nationality Germany
+stance orthodox
+height 6′ 1″   /   185cm
+reach 76″   /   193cm
+residence Brandenburg, Germany
+birth place Klein Luckow, Mecklenburg-Vorpommern, Germany
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+'I can't let him do his job then!' |...
+<
+>
+Box-pro 70 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+1948-10-31 194 Richard Vogt 187 47 4 6
+Waldbuehne, Westend L-PTS 10/10
+event
+bout
+score
+wiki
+1948-10-02 196¼ Hans Joachim
+Draegestein 202¾ 7 3 5
+VFB Platz, Kiel W-TKO 9/10
+event
+bout
+score
+wiki
+Draegestein suffered broken jaw.
+1948-05-23 191 Walter Neusel 203 63 12 8
+Platz in Hamburg-Altona, Altona L-PTS 10/10
+event
+bout
+score
+wiki
+1947-12-07 192 Hans Joachim
+Draegestein 205 7 1 4
+Omnibushalle, Altona W-PTS 10/10
+event
+bout
+score
+wiki
+1947-09-28 194 Werner Vollmer 190 5 6 2
+Waldstadion, Frankfurt W-KO 7/10
+event
+bout
+score
+wiki
+1939-07-02 193 Adolf Heuser 194 71 7 7
+Adolf-Hitler-Kampfbahn, Stuttgart W-KO 1/15
+event
+bout
+score
+wiki
+BDB German Heavy
+EBU European Heavy
+Att:70.000
+1938-06-22 193 Joe Louis 198¾ 35 1 0
+Yankee Stadium, The Bronx L-KO 1/15
+event
+bout
+score
+wiki
+2:04    ref: Arthur Donovan   Billy Cavanaugh   Eddie Forbes
+National Boxing Association (1921-1962) World Heavy
+NYSAC World Heavy
+World Heavyweight title
+The timekeeper was Eddie Joseph.
+1938-04-16 194½ Steve Dudas 195 52 16 0
+Hanseatenhalle W-KO 5/15
+event
+bout
+score
+wiki
+ref: Otto Griese
+1938-01-30 192½ Ben Foord 207 35 10 4
+Hanseatenhalle W-PTS 12/12
+event
+bout
+score
+wiki
+1937-12-13 196 Harry Thomas 196¼ 37 9 2
+Madison Square Garden, New York W-TKO 8/15
+event
+bout
+score
+wiki
+ref: Arthur Donovan
+1936-06-19 192 Joe Louis 198 24 0 0
+Yankee Stadium, The Bronx W-KO 12/15
+event
+bout
+score
+wiki
+2:29    ref: Arthur Donovan
+Louis down in the 4th and 12th rounds; Ring Magazine 1936 Fight of the Year
+1935-07-07 191¾ Paulino Uzcudun 202½ 49 15 3
+Poststadion, Moabit W-PTS 12/12
+event
+bout
+score
+wiki
+1935-03-10 189 Steve Hamas 190 34 3 2
+Hanseatenhalle W-KO 9/12
+event
+bout
+score
+wiki
+1934-08-26 193¾ Walter Neusel 198 41 2 4
+Sandbahn Lokstedt W-TKO 9/12
+event
+bout
+score
+wiki
+Att:102.000 (Largest ever European Att )
+1934-05-13 187½ Paulino Uzcudun 208¼ 49 15 2
+Estadio Olímpico de Montjuïc, Barcelona D-MD 12/12
+event
+bout
+score
+wiki
+ref: Juan Casanovas    Juve    Piniero
+1934-02-13 189 Steve Hamas 193 32 3 2
+Convention Hall, Philadelphia L-UD 12/12
+event
+bout
+score
+wiki
+ref: Spud Murphy   Lou Cassidy   Al Voice
+1933-06-08 189 Max Baer 203 38 7 0
+Yankee Stadium, The Bronx L-TKO 10/15
+event
+bout
+score
+wiki
+1:51    ref: Arthur Donovan   Joe Agnello   Charley Lynch
+A crowd of 53, 000 (with another 3, 300 with passes) - including Jack Sharkey and Primo Carnera - paid $239, 676.07 to assure a fair profit for Jack Dempsey in his first big promotional venture.
+1933 Fight of the Year - Ring Magazine. Donovan ignored repeated back-handers from Baer.
+1932-09-26 188 Mickey Walker 174 115 18 5
+Madison Square Garden Bowl, Long Island City, Queens W-TKO 8/15
+event
+bout
+score
+wiki
+ref: Jack Denning
+Jack Kearns, Walker's manager, signaled Referee Denning to stop the bout. New York Times
+1932-06-21 188 Jack Sharkey 205 35 9 2
+Madison Square Garden Bowl, Long Island City, Queens L-SD 15/15
+event
+bout
+score
+wiki
+ref: Ed Smith 3-7   George Kelly 7-8   Charles F Mathison 10-5
+National Boxing Association (1921-1962) World Heavy
+NYSAC World Heavy
+World Heavyweight Title
+As a result of the controversial decision of this bout, the NYSAC barred any but "boxing experts" (sports writers, referees, judges) from broadcasting descriptions of future matches.
+1931-07-03 189 Young Stribling 186½ 238 13 18
+Municipal Stadium, Cleveland W-TKO 15/15
+event
+bout
+score
+wiki
+2:46    ref: George Blake   John Alexander   Larry Norrett
+National Boxing Association (1921-1962) World Heavy
+1930-06-12 188 Jack Sharkey 197 34 8 1
+Yankee Stadium, The Bronx W-DQ 4/15
+event
+bout
+score
+wiki
+2:55    ref: Jim Crowley   Harold Barnes   Charles F Mathison
+National Boxing Association (1921-1962) World Heavy (vacant)
+NYSAC World Heavy (vacant)
+1929-06-27 187 Paulino Uzcudun 192½ 38 6 2
+Yankee Stadium, The Bronx W-PTS 15/15
+event
+bout
+score
+wiki
+ref: Arthur Donovan   Lou Magnolia   Charles F Mathison
+1929-02-01 185 Johnny Risko 190 49 23 6
+Madison Square Garden, New York W-TKO 9/15
+event
+bout
+score
+wiki
+ref: Arthur Donovan   Joe Agnello   Ray Farrell
+1929 Fight of the Year - Ring Magazine
+1929-01-21 183½ Pietro Corri 195 5 24 2
+Laurel Garden, Newark W-KO 1/10
+event
+bout
+score
+wiki
+1929-01-04 181¼ Joe Sekyra 179 70 12 8
+Madison Square Garden, New York W-PTS 10/10
+event
+bout
+score
+wiki
+ref: Jack O'Sullivan   George Kelly   Tommy Shortell
+1928-11-23 183 Joe Monte 185½ 17 6 3
+Madison Square Garden, New York W-KO 8/10
+event
+bout
+score
+wiki
+1928-04-04 181 Franz Diener 193 18 5 3
+Sportpalast, Schoeneberg W-PTS 15/15
+event
+bout
+score
+wiki
+ref: Paul Samson Koerner
+BDB German Heavy
+1928-03-11 178¾ Ted Moore 170½ 66 19 9
+Westfalenhalle, Dortmund W-PTS 10/10
+event
+bout
+score
+wiki
+1928-02-25 182 Gipsy Daniels 185¼ 70 22 10
+Festhalle, Frankfurt L-KO 1/10
+event
+bout
+score
+wiki
+1928-01-06 174 Michele Bonaglia 174½ 21 1 1
+Sportpalast, Schoeneberg W-KO 1/15
+event
+bout
+score
+wiki
+2:31    EBU European Light Heavy
+1927-12-02 181 Gipsy Daniels 185¼ 70 20 10
+Sportpalast, Schoeneberg W-PTS 10/10
+event
+bout
+score
+wiki
+1927-11-06 173 Hein Domgoergen 79 3 6
+Achilleion, Leipzig W-KO 7/15
+event
+bout
+score
+wiki
+BDB German Light Heavy
+EBU European Light Heavy
+IBU title fight for the European light heavyweight championship and VDF title fight for the German light heavyweight championship.
+1927-10-02 Louis Clement 19 20 6
+Westfalenhalle, Dortmund W-TKO 6/10
+event
+bout
+score
+wiki
+1927-09-02 Robert Larsen 3 4 2
+Sportpalast, Schoeneberg W-TKO 3/10
+event
+bout
+score
+wiki
+1927-08-07 Willem Westbroek 59 19 3
+Radrennbahn, Essen W-KO 3/10
+event
+bout
+score
+wiki
+1927-08-01 Jack Taylor 49 31 18
+Sagebiel W-PTS 10/10
+event
+bout
+score
+wiki
+1927-06-19 171½ Fernand Delarge 173¾ 21 6 2
+Westfalenhalle, Dortmund W-KO 14/15
+event
+bout
+score
+wiki
+EBU European Light Heavy
+1927-05-17 Raoul Paillaux 25 7 0
+Sagebiel W-KO 3/10
+event
+bout
+score
+wiki
+1927-05-08 Robert Larsen 3 3 2
+Waldstadion/Radrennbahn, Frankfurt W-PTS 10/10
+event
+bout
+score
+wiki
+1927-04-26 Stanley Glen 9 13 0
+Sagebiel W-KO 1/10
+event
+bout
+score
+wiki
+1927-04-08 Francois Charles 64 20 12
+Sportpalast W-TKO 8/10
+event
+bout
+score
+wiki
+1927-03-12 Leon Sebilo 6 8 3
+Westfalenhalle, Dortmund W-KO 2/10
+event
+bout
+score
+wiki
+1927-02-04 Joe Mehling 14 13 2
+Zirkus Sarassani, Dresden W-TKO 3/10
+event
+bout
+score
+wiki
+1927-01-23 Lodewijk Wilms 3 12 0
+Jahrhunderthalle, Wroclaw W-TKO 8/10
+event
+bout
+score
+wiki
+1927-01-07 175¼ Jack Stanley 202¾ 28 14 2
+Sportpalast, Schoeneberg W-KO 8/10
+event
+bout
+score
+wiki
+1926-10-01 Herman van 't Hof 48 10 2
+Sportpalast, Schoeneberg W-DQ 8/10
+event
+bout
+score
+wiki
+ref: Fritz Rolauf
+Van 't Hof was disqualified for kidney-punching.
+1926-08-24 173½ Max Diekmann 13 1 4
+Luna Park, Halensee W-KO 1/15
+event
+bout
+score
+wiki
+0:30    ref: Paul Samson Koerner
+BDB German Light Heavy (vacant)
+V.D.F. title fight for the vacant German light heavyweight title.
+1926-07-13 August Vongehr 5 14 3
+Luna Park, Halensee W-TKO 1/4
+event
+bout
+score
+wiki
+1926-03-19 Willy Louis 3 6 3
+Hochhaus-Sportschule, Cologne W-KO 1/6
+event
+bout
+score
+wiki
+All fights of this program were ND fights. This fight was over 6 rounds, the other ones were over 4 rounds.
+1926-02-12 174¼ Max Diekmann 11 1 3
+Kaiserdamm Arena D-PTS 8/8
+event
+bout
+score
+wiki
+1925-11-08 Rene Compere 9 10 2
+Bickendorfer Festhalle, Cologne W-PTS 8/8
+event
+bout
+score
+wiki
+1925-08-28 172 Larry Gains 21 7 2
+Kristallpalast, Cologne L-KO 2/10
+event
+bout
+score
+wiki
+Schmeling was counted out standing, leaning helpless upon the ropes. So it was a "formal" K.o.
+1925-06-13 172 Leon Randol 165¼ 31 14 1
+Palais des Sports, Schaerbeek D-PTS 10/10
+event
+bout
+score
+wiki
+1925-05-09 Jack Taylor 39 21 17
+Messehalle, Cologne L-PTS 10/10
+event
+bout
+score
+wiki
+1925-04-28 Fred Hammer 2 3 1
+Beethovenhalle, Bonn W-PTS 10/10
+event
+bout
+score
+wiki
+Hammer wrote a long letter to BOXSPORT (issue Nov. 7, 1949) stating that his fight against Schmeling was over 10 rounds and that the 8 rounds in the complete secondary literature are wrong.
+1925-04-03 Jimmy Lyggett Sr 34 16 6
+Sportpalast D-PTS 8/8
+event
+bout
+score
+wiki
+1925-03-15 Alfred Baker 13 7 2
+Schauburgring, Cologne W-KO 8/8
+event
+bout
+score
+wiki
+1925-03-01 Leon Randol 31 11 1
+Schauburgring, Cologne W-KO 4/8
+event
+bout
+score
+wiki
+1925-01-20 Joe Mehling 8 5 0
+Kriegervereinshaus W-PTS 6/6
+event
+bout
+score
+wiki
+1925-01-18 Johnny Cludts 19 27 3
+Schauburgring, Cologne W-KO 2/8
+event
+bout
+score
+wiki
+1924-12-26 Jimmy Lyggett Sr 33 14 6
+Bickendorfer Festhalle, Cologne W-DQ 4/10
+event
+bout
+score
+wiki
+1924-12-17 Richard Hartig 6 4 1
+Saalbau Friedrichshain W-KO 1/10
+event
+bout
+score
+wiki
+1924-12-07 163¼ Battling Mathar 14 20 7
+Tonhalle, Duesseldorf W-KO 3/10
+event
+bout
+score
+wiki
+1924-12-04 Hans Breuer 0 1 0
+Colonia-Haus, Cologne W-KO 2/10
+event
+bout
+score
+wiki
+1924-10-31 Fred Hammer 0 0 1
+Bickendorfer Festhalle, Cologne W-KO 3/?
+event
+bout
+wiki
+1924-10-10 Max Diekmann 0 0 1
+Sportpalast, Schoeneberg L-RTD 4/6
+event
+bout
+score
+wiki
+Schmeling retired due to an ear injury in the rest between round 4 and 5.
+1924-10-04 Rocky Knight 3 20 2
+Bickendorfer Festhalle, Cologne W-PTS 8/8
+event
+bout
+score
+wiki
+1924-09-20 166½ Willy Louis debut
+Schützenhof, Bochum W-KO 1/10
+event
+bout
+score
+wiki
+1924-09-19 Henri Vandevyvere 3 11 2
+Bickendorfer Festhalle, Cologne W-KO 3/8
+event
+bout
+score
+wiki
+Sources: Cologne newspapers. ATTENTION: About this early Schmeling fight is a lot of wrong information afloat in the secondary literature!
+1924-08-02 169¾ Hans Czapp 1 4 1
+Tonhalle, Duesseldorf W-KO 6/?
+event
+bout
+wiki
+Pro debut for Schmeling
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

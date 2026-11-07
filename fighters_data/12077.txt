@@ -1,0 +1,628 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+Max Baer
+
+Max Baer
+66 13 0
+51 KOs 3 KOs
+42 followers
+Box-pro referee
+division heavy
+status inactive
+bouts 79
+rounds 423
+KOs 77.27%
+career 1929-1941
+debut 1929-05-16
+
+ID# 012077
+birth name Maximillian Adelbert Baer
+sex male
+alias Livermore Larupper
+nationality USA
+stance orthodox
+height 6′ 2½″   /   189cm
+reach 81″   /   206cm
+residence Livermore, California, USA
+birth place Omaha, Nebraska, USA
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 81 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+1941-04-04 220¾ Lou Nova 202¾ 24 2 4
+Madison Square Garden, New York L-TKO 8/10
+event
+bout
+score
+wiki
+2:18    ref: Arthur Donovan
+Max Baer's final career bout.
+1940-09-26 223 Pat Comiskey 207 29 1 1
+Roosevelt Stadium, Jersey City W-TKO 1/10
+event
+bout
+score
+wiki
+2:39    ref: Jack Dempsey
+1940-07-02 221½ Tony Galento 244½ 75 24 6
+Roosevelt Stadium, Jersey City W-RTD 7/15
+event
+bout
+score
+wiki
+ref: Joe Mangold
+Galento was unable to answer the bell for the 8th round.
+1939-09-18 213 Babe Ritchie 194 10 4 1
+Fair Park Stadium, Lubbock W-KO 2/10
+event
+bout
+score
+wiki
+1:10    ref: George Blake
+Ritchie was knocked down twice.
+1939-09-04 218 Big Ed Murphy 200 2 1 0
+Silver Peak W-KO 1/4
+event
+bout
+score
+wiki
+1:40    ref: Tom Sharkey
+Bouts took place in new outdoor arena
+1939-06-01 210½ Lou Nova 202 21 1 4
+Yankee Stadium, The Bronx L-TKO 11/12
+event
+bout
+score
+wiki
+1:21    ref: Frank Fullam   Bill Healy   Joe Lynch
+Attendance: 16, 778; Gate: $82, 364
+(Poster)
+Baer, "the left side of his face battered out of shape after ten rounds of the most excruciating fighting he had ever undergone, was bleeding so severely from a severe laceration of the lower lip he could hardly breathe" when the referee stopped the bout. New York Times
+1938-10-26 221 Hank Hankinson 214 50 22 1
+Civic Auditorium, Honolulu W-KO 1/10
+event
+bout
+score
+wiki
+0:48    ref: Alky Dawson   Otto Allgoewer   George Parker
+1938-03-11 212 Tommy Farr 208½ 73 26 19
+Madison Square Garden, New York W-UD 15/15
+event
+bout
+score
+wiki
+ref: Arthur Donovan
+Farr was knocked down in the 2nd and 3rd. Scoring: 13-2, 11-3-1, 9-5-1
+1937-05-27 212 Ben Foord 208½ 35 9 4
+Harringay Arena, Harringay W-TKO 9/10
+event
+bout
+score
+wiki
+ref: Jack Hart
+1937-04-15 211½ Tommy Farr 198 71 24 19
+Harringay Arena, Harringay L-PTS 12/12 x 0
+event
+bout
+score
+wiki
+1936-10-19 212½ Dutch Weimer 186½ 57 29 1
+Maple Leaf Gardens, Toronto W-KO 2/10
+event
+bout
+score
+wiki
+1:30    ref: Herschel Osbourne
+A light slap to Weimer's ribs ended the bout, causing the crowd to roar its disgust. Someone threw an empty whiskey bottle at Baer. Leaving the ring, he turned to the crowd and shouted, "Well, you paid to get in - suckers." The bout, termed "a fake, fiasco and disgrace" by Premier Mitchell F. Hepburn (who had been in the crowd), resulted in the reorganization of the Ontario Athletic Commission and the appointment of P. J. Mulqueen as Chairman to restore confidence of fans.
+1936-10-08 215 Willie Davies 192 12 13 2
+Fair Grounds, Platteville L-PTS 6/6
+event
+bout
+score
+wiki
+ref: Ted Jamieson 1-5
+This result is given as reported in the Milwaukee Sentinel. The fight was billed as an exhibition, yet Referee Ted Jamieson gave an official decision. Baer floored Davies in the 2nd round. Jamieson only gave this 2nd round to Baer and gave Davies the other five.
+1936-10-06 Tim Charles 46 39 18
+Coliseum, Evansville W-KO 4/6
+event
+bout
+score
+wiki
+Charles downed eight times.
+1936-09-21 217 Andy Miller 170 40 10 4
+Sheldon W-NWS 6/6
+event
+bout
+score
+wiki
+Newspaper decision from the Sioux City Journal
+1936-09-14 216 Bearcat Wright 230 71 25 23
+Coliseum, Des Moines W-NWS 6/6
+event
+bout
+score
+wiki
+ref: Alex Fidler
+Newspaper decision from the Des Moines Register and Des Moines Tribune
+Baer wore 16oz gloves.
+1936-09-07 212 Cowboy Sammy Evans 210 10 16 2
+Elks Hall, Casper W-KO 3/6
+event
+bout
+score
+wiki
+1936-09-04 210 Cyclone Lynch 215 3 6 0
+Rock Springs W-KO 3/6
+event
+bout
+score
+wiki
+1936-09-02 217 Al Gaynor 202 2 4 0
+Lincoln Field, Twin Falls W-KO 1/6
+event
+bout
+score
+wiki
+1936-08-31 218 Don Baxter 220 0 1 0
+Memorial Ball Park, Coeur d'Alene W-KO 1/6
+event
+bout
+score
+wiki
+1936-08-29 217 Al Frankco 212 debut
+Recreation Park, Lewiston W-KO 2/6
+event
+bout
+score
+wiki
+1936-08-25 216½ Cecil Myart 219 16 31 7
+Multnomah Stadium, Portland W-PTS 6/6
+event
+bout
+score
+wiki
+1936-08-24 218 Nails Gorman 200 16 17 14
+Armory, Marshfield W-TKO 3/6
+event
+bout
+score
+wiki
+ref: Dutch Schwemler
+1936-07-24 212 Bob Williams 220 16 8 1
+Ogden Stadium, Ogden W-KO 1/6
+event
+bout
+score
+wiki
+1936-07-17 213 Cecil Smith 191 6 0 0
+Convention Hall, Ada W-PTS 4/4
+event
+bout
+score
+wiki
+ref: Dave Ellison
+1936-07-16 213 Junior Munsell 187 21 0 1
+Coliseum, Tulsa W-KO 5/6
+event
+bout
+score
+wiki
+0:45    ref: Red Andrews
+Munsell down in the 1st round. Munsell reportedly 21-0-1 entering contest. Source: Miami News-Record (OK)
+1936-07-13 214 James Merriott 215 10 14 2
+Avey's Open-Air Arena, Oklahoma City W-KO 2/6
+event
+bout
+score
+wiki
+1936-07-02 224 Buck Rogers 217 1 2 0
+Sportatorium, Dallas W-KO 3/6
+event
+bout
+score
+wiki
+1936-06-24 218 Wilson Dunn 168 104 38 13
+Tech Field, San Antonio W-TKO 3/6
+event
+bout
+score
+wiki
+Dunn announced at 183, was weighed after the fight and was actually 168. San Antonio Light
+1936-06-23 218 George Brown 198 9 21 1
+Tyler W-TKO 4/6
+event
+bout
+score
+wiki
+Brown was floored three times in the fourth round before his manager tossed in the towel.
+1936-06-19 220 Harold Murphy 205 59 27 15
+Armory, Pocatello W-PTS 6/6
+event
+bout
+score
+wiki
+Murphy was floored in the 3d, 4th, & 5th
+1936-06-17 224 Bob Fraser 190 15 21 17
+Ada Co. Fairgrounds, Boise W-TKO 2/6
+event
+bout
+score
+wiki
+1936-06-15 226 Tony Souza 222 35 17 7
+McCullough's Arena, Salt Lake City W-PTS 6/6
+event
+bout
+score
+wiki
+Souza was floored four times in the bout.
+1935-09-24 210 Joe Louis 198 21 0 0
+Yankee Stadium, The Bronx L-KO 4/15
+event
+bout
+score
+wiki
+3:09    ref: Arthur Donovan   George LeCron   Charley Lynch
+1935-06-13 210½ Jim Braddock 194 49 25 7
+Madison Square Garden Bowl, Long Island City, Queens L-UD 15/15
+event
+bout
+score
+wiki
+ref: Johnny McAvoy 5-9   George Kelly 7-7   Charley Lynch 4-11
+National Boxing Association (1921-1962) World Heavy
+NYSAC World Heavy
+World heavyweight title
+Kelly 7-7-1 (points for Braddock under NY's rounds plus points scoring)
+1934-06-14 209½ Primo Carnera 263¼ 78 6 0
+Madison Square Garden Bowl, Long Island City, Queens W-TKO 11/15
+event
+bout
+score
+wiki
+2:16    ref: Arthur Donovan   Charley Lynch   Tommy Shawtell
+National Boxing Association (1921-1962) World Heavy
+NYSAC World Heavy
+World heavyweight title
+Nat Fleischer (inThe Ring, August 1934, page 47) claimed that Carnera was floored three times in round one, twice in round two (Carnera dragging Baer down both times). once in round three, and several more times in the last two rounds. Fleischer's account is not entirely clear and it appears that one or two paragraphs at the end may have been deleted by accident. Other accounts indicate that Carnera was down twice in round 10 and twice more in round 11, which would make a total of 10 knockdowns. Fleischer had Carnera winning rounds four, seven, and eight, Baer winning all of the others (unofficially). Attendance 56, 000.
+1933-06-08 203 Max Schmeling 189 45 5 3
+Yankee Stadium, The Bronx W-TKO 10/15
+event
+bout
+score
+wiki
+1:51    ref: Arthur Donovan   Joe Agnello   Charley Lynch
+A crowd of 53, 000 (with another 3, 300 with passes) - including Jack Sharkey and Primo Carnera - paid $239, 676.07 to assure a fair profit for Jack Dempsey in his first big promotional venture.
+1933 Fight of the Year - Ring Magazine. Donovan ignored repeated back-handers from Baer.
+1932-09-26 204 Tuffy Griffiths 188 78 12 7
+Chicago Stadium, Chicago W-TKO 7/10
+event
+bout
+score
+wiki
+0:58    ref: Phil Collins
+From Chicago Tribune (Bob Soderman). Griffith was down in round six and narrowly avoided a knockout in round four, and suffered a bad beating. There was one additional fight scheduled for this program, the result for which is not shown here: Jackie Sharkey v. Kid Irish, 6 rounds.
+1932-08-31 200 Ernie Schaaf 209½ 56 12 2
+Chicago Stadium, Chicago W-MD 10/10
+event
+bout
+score
+wiki
+ref: Tommy Thomas
+"The bell deprived Baer of a knock-out victory. Two seconds before the fight ended Schaaf was knocked flat on his face, completely knocked out. He was dragged to his corner and his seconds worked on him for three minutes restoring him to his senses." (Associated Press)
+1932-07-04 202¾ King Levinsky 196¾ 41 17 4
+Dempsey's Bowl, Reno W-PTS 20/20
+event
+bout
+score
+wiki
+ref: George Blake
+1932-05-11 205 Walter Cobb 221 29 12 0
+Auditorium, Oakland W-TKO 4/10
+event
+bout
+score
+wiki
+ref: Toby Irwin
+1932-04-26 205 Paul Swiderski 194½ 19 12 2
+Olympic Auditorium, Los Angeles W-TKO 6/10
+event
+bout
+score
+wiki
+ref: Abe Roth
+1932-02-22 199 Tom Heeney 211½ 36 19 7
+Seals Stadium, San Francisco W-PTS 10/10
+event
+bout
+score
+wiki
+ref: Toby Irwin
+1932-01-29 202 King Levinsky 193½ 41 15 4
+Madison Square Garden, New York W-UD 10/10
+event
+bout
+score
+wiki
+ref: Ed Smith
+1931-12-30 202½ Arthur De Kuh 219½ 42 10 1
+Auditorium, Oakland W-PTS 10/10
+event
+bout
+score
+wiki
+ref: Toby Irwin
+1931-11-23 203 Les Kennedy 189 40 13 2
+Auditorium, Oakland W-KO 3/10
+event
+bout
+score
+wiki
+ref: Toby Irwin
+1931-11-09 204 Johnny Risko 195 62 38 7
+Seals Stadium, San Francisco W-PTS 10/10
+event
+bout
+score
+wiki
+ref: Eddie Burns
+1931-10-21 204 Jose Santa 244 54 12 4
+Auditorium, Oakland W-KO 10/10
+event
+bout
+score
+wiki
+ref: Toby Irwin
+1931-09-23 205 Jack Van Noy 197½ 12 5 1
+Auditorium, Oakland W-TKO 8/10
+event
+bout
+score
+wiki
+ref: Toby Irwin
+1931-07-04 202 Paulino Uzcudun 195 41 10 2
+Race Track Arena, Reno L-PTS 20/20
+event
+bout
+score
+wiki
+ref: Jack Dempsey
+1931-05-05 204 Johnny Risko 195 59 37 7
+Public Hall, Cleveland L-UD 10/10
+event
+bout
+score
+wiki
+ref: Johnny Kilbane   Larry Norrett   Herb Williams
+1931-04-07 197 Ernie Owens 185 64 24 25
+Auditorium, Portland W-KO 2/10
+event
+bout
+score
+wiki
+ref: Tom Louttit
+1931-02-06 200½ Tommy Loughran 183 98 18 7
+Madison Square Garden, New York L-UD 10/10
+event
+bout
+score
+wiki
+ref: Jack Dempsey   Billy Joh   Tommy Shortell
+1931-01-16 201 Tom Heeney 208 35 15 5
+Madison Square Garden, New York W-KO 3/10
+event
+bout
+score
+wiki
+ref: Jack Dempsey
+Referee Jack Dempsey picked up the count incorrectly. Knockdown time-keeper Arthur Donovan signaled Heeney out at Dempsey's count of eight. Heeney was waiting to hear "nine" before arising. When he learned he had been counted out, he "protested strenuously, " and the crowd "broke into a deafening roar of disapproval." New York Times
+1930-12-19 200 Ernie Schaaf 203 30 10 2
+Madison Square Garden, New York L-UD 10/10
+event
+bout
+score
+wiki
+1930-08-25 197 Frankie Campbell 182 32 3 3
+Recreation Park, San Francisco W-TKO 5/10
+event
+bout
+score
+wiki
+ref: Toby Irwin
+Frankie Campbell died the following day as a result of injuries sustained during this bout.
+1930-08-11 193½ KO Christner 200 31 11 2
+Oaks Ballpark, Emeryville W-KO 2/10
+event
+bout
+score
+wiki
+ref: Jim Griffin
+Baer sent Christner to the floor three times in the second stanza.
+1930-07-15 190 Les Kennedy 189¾ 33 5 2
+Olympic Auditorium, Los Angeles L-PTS 10/10
+event
+bout
+score
+wiki
+ref: Jack Kennedy 1-7
+1930-06-25 192 Ernie Owens 181 64 21 25
+Auditorium, Oakland W-KO 5/10
+event
+bout
+score
+wiki
+ref: Willie Ritchie
+1930-06-11 194 Buck Weaver 205 8 8 3
+Auditorium, Oakland W-KO 1/10
+event
+bout
+score
+wiki
+ref: Toby Irwin
+1930-05-28 191½ Jack Linkhorn 179½ 19 3 0
+Auditorium, Oakland W-KO 1/10
+event
+bout
+score
+wiki
+ref: Toby Irwin
+1930-05-07 192½ Tom Toner 192½ 19 3 2
+Auditorium, Oakland W-TKO 6/10
+event
+bout
+score
+wiki
+ref: Toby Irwin
+1930-04-22 197 Ernie Owens 186 64 19 25
+Olympic Auditorium, Los Angeles W-PTS 10/10
+event
+bout
+score
+wiki
+Owens knocked down for first time in career
+1930-04-09 191 Jack Stewart 182 9 3 2
+Auditorium, Oakland W-KO 2/10
+event
+bout
+score
+wiki
+ref: Toby Irwin
+1930-01-29 203 Tiny Abbott 230 17 1 1
+Auditorium, Oakland W-KO 6/10
+event
+bout
+score
+wiki
+1930-01-15 192 Tiny Abbott 235 16 1 1
+Arcadia Pavilion, Oakland L-DQ 3/10
+event
+bout
+score
+wiki
+ref: Eddie Burns
+Baer was disqualified for hitting Abbott while he was being given a count; fined $100 for fouls
+1929-12-30 Tony Fuente 74 25 8
+Arcadia Pavilion, Oakland W-KO 1/10
+event
+bout
+score
+wiki
+1929-12-04 192 Chet Shandel 212 19 2 1
+Arcadia Pavilion, Oakland W-KO 2/10
+event
+bout
+score
+wiki
+ref: Toby Irwin
+1929-11-20 192 Tillie Taverna 180½ 5 5 0
+Arcadia Pavilion, Oakland W-KO 2/10
+event
+bout
+score
+wiki
+1929-11-06 193 Natie Brown 190 0 1 0
+Arcadia Pavilion, Oakland W-PTS 6/6
+event
+bout
+score
+wiki
+1929-10-30 Alex Rowe 4 1 0
+Arcadia Pavilion, Oakland W-KO 1/6
+event
+bout
+score
+wiki
+1929-10-16 Chief Caribou 4 10 0
+Arcadia Pavilion, Oakland W-TKO 1/4
+event
+bout
+score
+wiki
+ref: Billy Snailham
+1929-10-02 George Carroll debut
+Auditorium, Oakland W-TKO 1/6
+event
+bout
+score
+wiki
+1929-09-25 198 Frank Rudzenski 179 1 6 0
+Arcadia Pavilion, Oakland W-KO 3/6
+event
+bout
+score
+wiki
+"Frank succumbed to a vicious left hook after being knocked half out of the ring with a right." (Hayward Review)
+1929-09-04 Jack McCarthy 2 5 0
+Arcadia Pavilion, Oakland L-DQ 3/6
+event
+bout
+score
+wiki
+ref: Billy Snailham
+Baer 20lbs heavier.
+1929-08-28 Al Red Ledford 191½ 6 15 0
+Arcadia Pavilion, Oakland W-KO 2/4
+event
+bout
+score
+wiki
+1929-07-31 Benny Hill 13 19 12
+Arcadia Pavilion, Oakland W-PTS 4/4
+event
+bout
+score
+wiki
+1929-07-24 Benny Hill 13 18 12
+Arcadia Pavilion, Oakland W-PTS 4/4
+event
+bout
+score
+wiki
+1929-07-18 199 Al Red Ledford 197 4 14 0
+Oak Park Arena, Stockton W-KO 1/4
+event
+bout
+score
+wiki
+1929-07-04 191 Tillie Taverna 187 0 3 0
+Oak Park Arena, Stockton W-KO 1/4
+event
+bout
+score
+wiki
+1929-06-06 190 Sailor Leeds 180 debut
+Oak Park Arena, Stockton W-TKO 1/4
+event
+bout
+score
+wiki
+1929-05-16 192 Chief Caribou 192 2 1 0
+Oak Park Arena, Stockton W-TKO 2/4
+event
+bout
+score
+wiki
+ref: Harry Atwood
+First documented bout for Max Baer.
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

@@ -1,0 +1,422 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+Lennox Lewis
+
+Lennox Lewis
+41 2 1
+32 KOs 2 KOs
+393 followers
+Box-pro Box-am All Bouts
+division heavy
+status inactive
+bouts 44
+rounds 225
+KOs 78.05%
+career 1989-2003
+debut 1989-06-27
+
+ID# 001853
+birth name Lennox Claudius Lewis
+sex male
+alias The Lion
+nationality United Kingdom
+stance orthodox
+height 6′ 5″   /   196cm
+reach 84″   /   213cm
+residence West Ham, London, United Kingdom
+birth place West Ham, London, United Kingdom
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 44 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+2003-06-21 256½ Vitali Klitschko 248 32 1 0
+Staples Center, Los Angeles W-RTD 6/12
+event
+bout
+score
+wiki
+3:00    ref: Lou Moret   James Jen Kin 56-58   Tom Kaczmarek 56-58   Pat Russell 56-58
+IBO World Heavy
+WBC World Heavy
+Fight stopped after round six due to a Klitschko cut.
+2002-06-08 249¼ Mike Tyson 234 49 3 0
+The Pyramid, Memphis W-KO 8/12
+event
+bout
+score
+wiki
+2:25    ref: Eddie Cotton   Alfred Buqwana 68-64   Anek Hongtongkam 68-64   Bob Logist 68-64
+IBF World Heavy (supervisor: Linda Torres)
+IBO World Heavy (supervisor: Ed Levine)
+WBC World Heavy (supervisor: Rex Walker)
+Lewis lost one point in round four for pushing Tyson down.
+2001-11-17 246½ Hasim Rahman 236 35 2 0
+Mandalay Bay Resort & Casino, Las Vegas W-KO 4/12
+event
+bout
+score
+wiki
+1:29    ref: Joe Cortez   Patricia Morse Jarman 30-27   Dave Moretti 30-27   Dalby Shirley 30-27
+IBF World Heavy (supervisor: Mahasin Scott)
+IBO World Heavy (supervisor: Ed Levine)
+WBC World Heavy (supervisor: Mauricio Sulaiman)
+2001-04-22 253½ Hasim Rahman 238 34 2 0
+Carnival City, Brakpan L-KO 5/12
+event
+bout
+score
+wiki
+2:32    ref: Daniel Van de Wiele   Valerie Dorsett 39-37   Dave Parris 39-37   Thabo Spampool 39-37
+IBF World Heavy (supervisor: Marian W Muhammad)
+IBO World Heavy (supervisor: Ed Levine)
+WBC World Heavy (supervisor: Frank Quill)
+2000-11-11 249 David Tua 245 37 1 0
+Mandalay Bay Resort & Casino, Las Vegas W-UD 12/12
+event
+bout
+score
+wiki
+ref: Joe Cortez   Chuck Giampa 118-110   Dave Moretti 119-109   Jerry Roth 117-111
+IBF World Heavy (supervisor: Jack Battalia)
+IBO World Heavy
+WBC World Heavy (supervisor: Mauricio Sulaiman)
+2000-07-15 250 Frans Botha 237 40 2 1
+London Arena, Millwall W-TKO 2/12
+event
+bout
+score
+wiki
+2:39    ref: Larry O'Connell   Al Bennett 10-9   Roy Francis 10-9   Chuck Williams 10-9
+IBF World Heavy (supervisor: Daryl Peoples)
+IBO World Heavy
+WBC World Heavy (supervisor: Jose Sulaiman)
+2000-04-29 247 Michael Grant 250 31 0 0
+Madison Square Garden, New York W-KO 2/12
+event
+bout
+score
+wiki
+2:53    ref: Arthur Mercante Jr   Anek Hongtongkam 10-6   Melvina Lathan 10-7   Steve Weisfeld 10-6
+IBF World Heavy (supervisor: Daryl Peoples)
+IBO World Heavy
+WBC World Heavy (supervisor: Gabriel Penagaricano)
+Grant down 3 times in opening round
+1999-11-13 242 Evander Holyfield 217 36 3 1
+Thomas & Mack Center, Las Vegas W-UD 12/12
+event
+bout
+score
+wiki
+ref: Mitch Halpern   Chuck Giampa 116-112   Bill Graham 117-111   Jerry Roth 115-113
+IBF World Heavy (supervisor: Walter Stone)
+IBO World Heavy (vacant)
+WBC World Heavy (supervisor: Edmund Lipinski)
+1999-03-13 245 Evander Holyfield 215 36 3 0
+Madison Square Garden, New York D-SD 12/12
+event
+bout
+score
+wiki
+ref: Arthur Mercante Jr   Stanley Christodoulou 116-113   Larry O'Connell 115-115   Eugenia Williams 113-115
+IBF World Heavy (supervisor: Walter Stone)
+WBC World Heavy (supervisor: Gabriel Penagaricano)
+1998-09-26 243 Zeljko Mavrovic 214¼ 27 0 0
+Mohegan Sun Casino, Uncasville W-UD 12/12
+event
+bout
+score
+wiki
+ref: Frank Cappuccino   Franco Ciminale 117-111   Tom Kaczmarek 119-109   Bob Logist 117-112
+WBC World Heavy (supervisor: Mario Latraverse)
+1998-03-28 243 Shannon Briggs 228 30 1 0
+Boardwalk Convention Center, Atlantic City W-TKO 5/12
+event
+bout
+score
+wiki
+1:45    ref: Frank Cappuccino   Anek Hongtongkam 39-35   Terry O'Connor 39-35   John Stewart 38-36
+WBC World Heavy (supervisor: Andy Vandolah)
+Briggs down twice in round four and once in round five.
+1997-10-04 244 Andrew Golota 244 28 2 0
+Caesars Hotel & Casino, Atlantic City W-KO 1/12
+event
+bout
+score
+wiki
+1:35    ref: Joe Cortez   Marty Denkin   Chuck Hassett   Barbara Perez
+WBC World Heavy (supervisor: John Allotie Cofie)
+1997-07-12 242 Henry Akinwande 237½ 32 0 1
+Caesars Tahoe, Stateline W-DQ 5/12
+event
+bout
+score
+wiki
+2:34    ref: Mills Lane   Larry O'Connell 40-35   Dalby Shirley 38-37   Terry Smith 40-35
+WBC World Heavy (supervisor: John Morris)
+1997-02-07 251 Oliver McCall 237 28 6 0
+Hilton Hotel, Las Vegas W-TKO 5/12
+event
+bout
+score
+wiki
+0:55    ref: Mills Lane   Anek Hongtongkam 40-36   Larry O'Connell 39-36   Dalby Shirley 40-35
+WBC World Heavy (vacant) (supervisor: Edward Thangarajah)
+1996-05-10 247 Ray Mercer 238 23 3 1
+Madison Square Garden, New York W-MD 10/10
+event
+bout
+score
+wiki
+ref: Arthur Mercante Jr   George Colon 96-94   Melvina Lathan 95-95   Luis Rivera 96-95
+1995-10-07 241 Tommy Morrison 227 45 2 1
+Convention Center, Atlantic City W-TKO 6/12
+event
+bout
+score
+wiki
+1:22    ref: Mills Lane   Frank Brunette 49-44   Al DeVito 50-43   Henry Eugene Grant 49-44
+1995-07-02 246 Justin Fortune 216½ 11 2 1
+The Point, Dublin W-TKO 4/10
+event
+bout
+score
+wiki
+1:48    ref: Roy Francis
+1995-05-13 248 Lionel Butler 261 22 10 1
+Arco Arena, Sacramento W-TKO 5/12
+event
+bout
+score
+wiki
+2:55    ref: Marty Denkin   Angel Luis Guzman   Chuck Hassett   Larry O'Connell
+WBC Heavyweight Title Eliminator
+1994-09-24 238 Oliver McCall 231¼ 24 5 0
+Wembley Arena, Wembley L-TKO 2/12
+event
+bout
+score
+wiki
+0:31    ref: Jose Guadalupe Garcia   Giuseppe Ferrari 10-9   Jae Bong Kim 10-10   Franz Marti 10-9
+WBC World Heavy (supervisor: Houcine Houichi)
+1994-05-06 235 Phil Jackson 218 30 1 0
+Boardwalk Convention Center, Atlantic City W-TKO 8/12
+event
+bout
+score
+wiki
+1:35    ref: Arthur Mercante   John Keane 69-64   Bob Logist 69-63   John Stewart 69-62
+WBC World Heavy (supervisor: John Allotie Cofie)
+1993-10-01 229 Frank Bruno 238 36 3 0
+National Stadium, Cardiff W-TKO 7/12
+event
+bout
+score
+wiki
+1:12    ref: Mickey Vann   Tony Castellano 57-57   Adrian Morgan 55-59   Jerry Roth 57-57
+WBC World Heavy (supervisor: David Hopkin)
+1993-05-08 235 Tony Tucker 235 48 1 0
+Thomas & Mack Center, Las Vegas W-UD 12/12
+event
+bout
+score
+wiki
+ref: Joe Cortez   Harry Gibbs 116-112   Jerry Roth 117-111   Mickey Vann 118-111
+WBC World Heavy (supervisor: Edward Thangarajah)
+Tucker was down in 3rd and 9th rounds
+1992-10-31 227 Donovan Ruddock 231½ 27 3 1
+Earls Court Exhibition Hall, Kensington W-TKO 2/12
+event
+bout
+score
+wiki
+0:46    ref: Joe Cortez   Chuck Hassett   Tom Kaczmarek   Franz Marti
+Commonwealth Boxing Council Heavy
+Eliminator for WBC Heavyweight Title
+Ruddock down once in 1st, twice in 2nd
+Shortly after this fight, Lewis was proclaimed the WBC Heavyweight Champion as Riddick Bowe refused to face him
+1992-08-11 233 Mike Dixon 207 10 5 0
+Harrah's Marina Hotel Casino, Atlantic City W-TKO 4/10
+event
+bout
+score
+wiki
+1:02    ref: Rudy Battle   Frank Brunette   Lynne Carter   Eva Shain
+Dixon received a standing count in the 4th round, and in the following action ref stopped the bout due to lack of response
+1992-04-30 230½ Derek Williams 233 19 4 0
+Royal Albert Hall, Kensington W-TKO 3/12
+event
+bout
+score
+wiki
+2:30    ref: Larry O'Connell   Roy Francis   Dave Parris
+BBBofC British Heavy
+Commonwealth Boxing Council Heavy
+EBU European Heavy (supervisor: John Morris)
+Lewis wins the Lonsdale Belt outright
+1992-02-01 225 Levi Billups 228 16 5 0
+Caesars Palace, Las Vegas W-UD 10/10
+event
+bout
+score
+wiki
+ref: Richard Steele   Bill Graham 98-92   Art Lurie 99-91   Dave Moretti 100-90
+1991-11-23 230½ Tyrell Biggs 231 19 4 0
+The Omni, Atlanta W-TKO 3/10
+event
+bout
+score
+wiki
+2:47    ref: Frank Santore Jr   Irwin Deutsch   Bobby Ezor   Frank Skilbred
+Biggs knocked down three times in the third round.
+1991-09-30 231 Glenn McCrory 221 28 6 0
+Royal Albert Hall, Kensington W-KO 2/12
+event
+bout
+score
+wiki
+1:30    ref: John Coyle   Adrian Morgan   Mickey Vann
+BBBofC British Heavy
+EBU European Heavy (supervisor: John Morris)
+1991-07-12 221 Mike Weaver 215 35 15 1
+Caesars Tahoe, Outdoor Arena, Stateline W-KO 6/10
+event
+bout
+score
+wiki
+1:05    ref: Vic Drakulich   Burt A Clements 50-45   John McSweeny 49-46   Herb Santos 50-45
+1991-03-06 227 Gary Mason 235 35 0 0
+Wembley Arena, Wembley W-TKO 7/12
+event
+bout
+score
+wiki
+0:44    ref: Larry O'Connell   John Coyle   Mickey Vann
+BBBofC British Heavy
+EBU European Heavy (supervisor: John Morris)
+1990-10-31 224 Jean Maurice Chanet 205¾ 24 10 0
+National Sports Centre, Crystal Palace W-TKO 6/12
+event
+bout
+score
+wiki
+0:16    ref: Franz Marti   Jess Andreasen   Rolando Barrovecchio
+EBU European Heavy
+Chanet halted with gash above left eye
+1990-07-11 228 Mike Acey 221 11 4 1
+Superstars Nite Club, Kitchener W-KO 2/10
+event
+bout
+score
+wiki
+1:34    ref: Harry Davis   Bob Bell   Frank Bullard   Bernie Cormier
+1990-06-27 224 Ossie Ocasio 229 22 9 1
+Royal Albert Hall, Kensington W-PTS 8/8
+event
+bout
+score
+wiki
+ref: Larry O'Connell 80-77
+1990-05-20 230½ Dan Murphy 210¾ 26 4 1
+City Hall, Sheffield W-TKO 6/8
+event
+bout
+score
+wiki
+2:11    ref: Ron Hackett
+Murphy was a substitute for Phil Brown
+1990-05-09 232½ Jorge Alfredo
+Dascola 223½ 14 3 0
+Royal Albert Hall, Kensington W-KO 1/8
+event
+bout
+score
+wiki
+2:59    ref: Larry O'Connell
+1990-04-14 233½ Michael Simuwelu 229 18 2 1
+Royal Albert Hall, Kensington W-TKO 1/8
+event
+bout
+score
+wiki
+0:58    ref: Roy Francis
+1990-03-22 233 Calvin Jones 243¼ 13 4 0
+Gateshead Leisure Centre, Gateshead W-KO 1/8
+event
+bout
+score
+wiki
+2:34    ref: Arnold Bryson
+1990-01-31 234 Noel Quarless 221 19 11 0
+York Hall, Bethnal Green W-TKO 2/6
+event
+bout
+score
+wiki
+1:25    ref: Roy Francis
+1989-12-18 226½ Greg Gorrell 206 21 7 0
+Memorial Auditorium, Kitchener W-TKO 5/8
+event
+bout
+score
+wiki
+0:51    ref: Harry Davis   Bob Bell   Frank Bullard   Charles Williams
+1989-11-05 230¾ Melvin Epps 193¾ 14 19 1
+Royal Albert Hall, Kensington W-DQ 2/6
+event
+bout
+score
+wiki
+0:30    ref: Tony Walker
+Epps disqualified for not obeying referee's instructions
+1989-10-10 232 Steve Garber 224 13 10 1
+City Hall, Hull W-KO 1/6
+event
+bout
+score
+wiki
+1:30    ref: Ron Hackett
+1989-09-25 234 Andrew Gerrard 225 11 30 5
+National Sports Centre, Crystal Palace W-TKO 4/6
+event
+bout
+score
+wiki
+0:33    ref: Larry O'Connell
+1989-07-21 233 Bruce Johnson 192 5 10 1
+Convention Center, Atlantic City W-TKO 2/6
+event
+bout
+score
+wiki
+ref: Steve Smoger
+1989-06-27 231 Al Malcolm 215 11 12 1
+Royal Albert Hall, Kensington W-KO 2/6
+event
+bout
+score
+wiki
+0:19    ref: Roy Francis
+Pro debut for the 1988 Super Heavyweight Olympic Gold Medalist Lewis
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

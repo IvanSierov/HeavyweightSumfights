@@ -1,0 +1,391 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+Leon Spinks
+
+Leon Spinks
+26 17 3
+14 KOs 9 KOs
+44 followers
+Box-pro Box-am All Bouts
+division heavy
+status inactive
+bouts 46
+rounds 323
+KOs 53.85%
+career 1977-1995
+debut 1977-01-15
+
+ID# 000262
+sex male
+alias Neon Leon
+nationality USA
+stance orthodox
+height 6′ 1″   /   185cm
+reach 76″   /   193cm
+residence Saint Louis, Missouri, USA
+birth place Saint Louis, Missouri, USA
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 46 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+1995-12-04 221 Fred Houpe 220 13 3 0
+A Little Bit of Texas, Saint Louis L-UD 8/8
+event
+bout
+score
+wiki
+Marty Bickle   Dan Kirner   Kevin Milligan
+1995-06-19 224 Ray Kipping 226 1 2 1
+A Little Bit of Texas, Saint Louis W-UD 8/8
+event
+bout
+score
+wiki
+Dennis Barbeau   Marty Bickle   Steve Watkins
+1994-10-22 218 John Carlo 210 debut
+Convention Center, Washington L-KO 1/10
+event
+bout
+score
+wiki
+1:09    ref: Sylvester Stevens
+Carlo substituted for Marc Machain.
+1994-10-01 217 Shane Sutcliffe 214 10 2 0
+Civic Arena, Nanaimo L-UD 8/8
+event
+bout
+score
+wiki
+72-80    72-80    76-79
+1994-06-22 225 Eddie Curry 200 11 18 2
+Raleigh W-DQ 8/10
+event
+bout
+score
+wiki
+ref: Bruce Foster   Brendan Carpenter   Bill Clancy   Dale Frye
+Believing the fight was scheduled as an 8-rounder, Curry was disqualified after not answering the bell for the 9th round.
+1993-02-27 216 James Wilder 203 2 34 1
+River Center, Davenport L-UD 10/10
+event
+bout
+score
+wiki
+ref: Sean Curtin
+1992-12-11 217 Kevin Poindexter 193 2 11 1
+Union Hall, Countryside W-KO 1/10
+event
+bout
+score
+wiki
+1992-09-26 220 Kevin P Porter 206 13 8 2
+Civic Center, Lansing L-UD 10/10
+event
+bout
+score
+wiki
+92-99    89-100    91-100
+1992-07-24 218 Jack Jackson 1 8 0
+Union Hall, Countryside W-KO 3/10
+event
+bout
+score
+wiki
+2:52    ref: Timothy Adams
+1992-06-17 224¾ Ken Bentley 204 8 28 0
+International Trade Center, Atlanta W-SD 10/10
+event
+bout
+score
+wiki
+99-96    96-95    93-98
+1992-03-20 215 Rick Myers 210 13 14 1
+Clarion Hotel Ballroom, Saint Louis W-UD 10/10
+event
+bout
+score
+wiki
+Ed Moynahan 100-88    99-91    98-93
+1992-02-28 221 Andre Crowder 204 6 17 2
+Union Hall, Countryside W-SD 10/10
+event
+bout
+score
+wiki
+ref: Sean Curtin   Mike Glienna 46-42   Gerald Hults 42-45   Bill Lerch 45-43
+1991-11-15 214 Lupe Guerra 223 25 25 2
+Genesis Center, Gary W-KO 3/10
+event
+bout
+score
+wiki
+2:13    ref: Sean Curtin   Stanley Berg   Pete Podgorski
+1988-05-30 206 Tony Morrison 198 15 6 1
+Marriott Hotel, Trumbull L-TKO 1/10
+event
+bout
+score
+wiki
+0:33    ref: Matt Mullaney
+1988-03-18 218¼ Randall Cobb 232¾ 32 7 1
+Municipal Auditorium, Nashville L-MD 10/10
+event
+bout
+score
+wiki
+ref: Steve Murff   Paul Bumman 96-97   Jerry Cooke 95-95   Larry Sullivan 95-97
+1987-12-20 215 Ladislao Mijangos 201 19 6 0
+Convention Center Arena, San Antonio L-SD 10/10
+event
+bout
+score
+wiki
+Vince Amaya 96-94   Leonel Cruz 94-95   Sam Duran 94-96
+1987-10-20 210 Terry Mims 190 13 15 0
+Swingo´s, Cleveland L-SD 10/10
+event
+bout
+score
+wiki
+Tim Figley 43-49   Joe Hammett 47-46   Kathy Terrell 45-47
+1987-08-29 211 Jim Ashard 214 6 5 2
+Lane County Fairgrounds, Eugene D-SD 10/10
+event
+bout
+score
+wiki
+Jack Batchelor 96-99   Lloyd Davis 97-95   Don Thompson 98-98
+1987-05-22 197 Angelo Musone 18 0 0
+Jesi L-KO 7/10
+event
+bout
+score
+wiki
+1987-04-28 202½ Jeff Jordan 200½ 17 6 0
+Aichi Prefectural Gym, Nagoya W-SD 12/12
+event
+bout
+score
+wiki
+ref: 118-114    116-112    117-118
+WBC Continental Americas Heavy
+1987-01-17 210½ Jose Ribalta 232 23 4 1
+Exhibition Center, Coconut Grove L-TKO 1/10
+event
+bout
+score
+wiki
+2:10    ref: Eddie Eckert   Ric Bays   Ed Levine   Al Wilensky
+Spinks down three times
+1986-08-02 211 Rocky Sekorski 17 5 0
+Detroit Port Authority, Detroit Lakes L-TKO 6/10
+event
+bout
+score
+wiki
+1:43    ref: LeRoy Benson
+1986-03-22 190 Dwight Muhammad
+Qawi 189 25 2 1
+Lawlor Events Center, Reno L-TKO 6/15
+event
+bout
+score
+wiki
+2:56    ref: Mills Lane   John McSweeny 44-50   Eva Shain 45-50   Al Wilensky 45-50
+1985-12-13 213 Kip Kane 208 15 1 1
+Felt Forum, New York W-TKO 8/12
+event
+bout
+score
+wiki
+1:37    ref: Joe Cortez
+WBC Continental Americas Heavy
+Kane down in 1st.
+1985-06-29 204 Tommy Thomas 218 34 6 0
+Sonoma County Fairgrounds, Santa Rosa W-UD 10/10
+event
+bout
+score
+wiki
+1985-05-09 200 Tom Fischer 220 36 9 0
+Cobo Arena, Detroit W-UD 10/10
+event
+bout
+score
+wiki
+Nate McAlpine 100-90   Charles McHenry 100-90   Ken Offet 99-91
+1985-04-09 207 Rick Kellar 15 9 1
+Blaisdell Center Arena, Honolulu W-TKO 3/10
+event
+bout
+score
+wiki
+2:47    ref: Manuel Tolentino
+1985-02-21 196 Lupe Guerra 189¾ 22 14 1
+Cobo Arena, Detroit W-TKO 4/10
+event
+bout
+score
+wiki
+0:43    ref: Tom Briscoe   Eugene Acey   Chris Barclay   Ken Offet
+Guerra down in 1st, 2nd and 4th rounds.
+1983-03-06 194¾ Carlos De Leon 187 33 3 0
+Harrah's Marina Hotel Casino, Atlantic City L-RTD 6/10
+event
+bout
+score
+wiki
+3:00    ref: Arthur Mercante   Frank Brunette 2-4   Richard F Murry 3-3   Phil Newman 1-5
+1982-10-31 195 Jesse Burnett 178¾ 25 14 2
+Great Gorge Resort, McAfee W-UD 12/12
+event
+bout
+score
+wiki
+ref: Larry Hazzard 116-114   Tom Kaczmarek 117-112   John Stewart 116-113
+North American Boxing Federation Cruiser (vacant)
+1982-02-24 194 Ivy Brown 192 26 12 0
+Playboy Hotel & Casino, Atlantic City W-UD 10/10
+event
+bout
+score
+wiki
+ref: Larry Hazzard 6-3   Frank Cappuccino 8-1   William Kostrub 7-2
+1981-06-12 200¼ Larry Holmes 212½ 37 0 0
+Joe Louis Arena, Detroit L-TKO 3/15
+event
+bout
+score
+wiki
+2:34    ref: Richard Steele   Henry Elespuru 19-19   Harold Lederman 18-20   Rudy Ortega 19-20
+WBC World Heavy
+1980-10-02 204½ Bernardo Mercado 219 26 2 0
+Caesars Palace, Las Vegas W-TKO 9/12
+event
+bout
+score
+wiki
+2:52    ref: Ferd Hernandez   Duane Ford   Hal Miller   Lou Tabat
+Eliminator for WBC Heavyweight Title
+1980-05-03 204 Kevin Isaac 200 14 6 2
+Circle Star Theatre, San Carlos W-TKO 8/10
+event
+bout
+score
+wiki
+2:11    ref: Rudy Ortega 69-65   Jack Downey 69-64   Henry Elespuru 69-64
+1980-03-08 204 Eddie Lopez 204 17 2 1
+Aladdin Hotel & Casino, Las Vegas D-SD 10/10
+event
+bout
+score
+wiki
+ref: Mills Lane   Harold Buck 95-94   Duane Ford 94-95   Hal Miller 95-95
+Lopez has a point deducted in Round 5 for butting
+1980-01-12 209 Alfredo Evangelista 222 33 4 2
+Resorts International, Atlantic City W-KO 5/10
+event
+bout
+score
+wiki
+2:43    ref: Vincent Rainone   William Kostrub   Harold Lederman
+1979-06-24 198½ Gerrie Coetzee 221 21 0 0
+Chapiteau de l'Espace Fontvieille, Fontvieille L-TKO 1/12
+event
+bout
+score
+wiki
+2:03    ref: Isidro Rodriguez
+Spinks was knocked down three times.
+1978-09-15 201 Muhammad Ali 221 55 3 0
+Superdome, New Orleans L-UD 15/15
+event
+bout
+score
+wiki
+ref: Lucien Joubert 4-10   Ernie Cojoe 4-10   Herman Preis 4-11
+Attendance: 63, 350.
+Ali announced his retirement on June 27, 1979, and the WBA title was declared vacant.
+1978-02-15 197¼ Muhammad Ali 224¼ 55 2 0
+Hilton Hotel, Las Vegas W-SD 15/15
+event
+bout
+score
+wiki
+ref: Davey Pearl   Harold Buck 144-141   Art Lurie 142-143   Lou Tabat 145-140
+WBC World Heavy
+Spinks subsequently stripped of WBC title as he chose to fight Muhammad Ali instead of #1 contender Ken Norton
+1977-11-18 201 Alfio Righetti 217 27 0 0
+Hilton Hotel, Las Vegas W-UD 10/10
+event
+bout
+score
+wiki
+ref: Buddy Basilico   Harold Buck 46-44   Art Lurie 46-44   Lou Tabat 46-44
+1977-10-22 194 Scott LeDoux 224 21 6 1
+Aladdin Theater, Las Vegas D-SD 10/10
+event
+bout
+score
+wiki
+ref: Carlos Padilla   Bill Kipp 45-46   Art Lurie 46-46   Lou Tabat 47-45
+1977-06-01 201¼ Bruce Scott 185¾ 10 38 1
+Forum, Montreal W-KO 3/8
+event
+bout
+score
+wiki
+3:02    ref: Rosaire Baillargeon
+Scott down twice in 2nd and once in 3rd. Scott was a last minute replacement for George Jerome who failed to show up for the fight.
+1977-05-07 200 Pedro Agosto 198 29 8 1
+Kiel Auditorium, Saint Louis W-KO 1/8
+event
+bout
+score
+wiki
+1:55    ref: Jim Reddick
+1977-03-20 195 Jerry McIntyre 232 1 2 0
+Exposition Center, Louisville W-KO 1/6
+event
+bout
+score
+wiki
+1977-03-05 198 Peter Freeman 206 13 8 0
+The Stadium, Liverpool W-KO 1/6
+event
+bout
+score
+wiki
+1:26    ref: Wally Thom
+Freeman was a late replacement for Eddie Fenton
+1977-01-15 196 Bob Smith 185 8 7 1
+The Aladdin, Las Vegas W-TKO 5/6
+event
+bout
+score
+wiki
+0:20    ref: Richard Green
+Pro debut for Spinks
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

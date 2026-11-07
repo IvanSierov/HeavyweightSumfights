@@ -1,0 +1,160 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+John Finnegan
+
+John Finnegan
+5 3 5
+3 KOs 2 KOs
+0 followers
+Box-pro
+division heavy
+status inactive
+bouts 14
+rounds 164
+KOs 60%
+career 1896-1900
+debut 1896-01-17
+
+ID# 011543
+sex male
+alias Jack
+nationality USA
+residence Pittsburgh, Pennsylvania, USA
+birth place Wheeling, West Virginia, USA
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 14 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+1900-07-09 John Kramer 3 1 4
+Millvale Opera House, Millvale W-KO 19/20
+event
+bout
+score
+wiki
+ref: Billy Corcoran
+Results from the Pittsburgh Press.
+1900-05-14 John J Cavanaugh 175 12 3 4
+Cyclorama Hall, Pittsburgh D-PTS 6/6
+event
+bout
+score
+wiki
+ref: Billy Corcoran
+Results from the Pittsburgh Press. Finnegan fought as "John Finnegan".
+1900-04-06 180 James J Jeffries 240 12 0 2
+Cadillac A.C., Detroit L-KO 1/10
+event
+bout
+score
+wiki
+0:55    ref: George Siler
+World Heavyweight Title
+"Finnegan landed the first blow as they came to the center of the ring, and Jeffries then put his left on the Pittsburgh man's jaw and he went to the floor. Finnegan came up in a few seconds only to be sent to the floor again with a blow in the same place. He stayed down longer this time and when he again rose he was in visible distress. He had hardly assumed a fighting position before the champion put his left in the pit of his stomach and Finnegan went down completely out. Referee Siler counted the seconds off and when he stepped back it was seen that Finnegan was crying. He staggered to his feet, reeled against the ropes and his seconds rushed into the ring and carried him to his corner. It was several minutes before he recovered sufficiently to leave the ring. Jeffries said he weighed 220, but he looked 30 pounds heavier. Finnegan weighed but 180, and he looked like a boy beside the champion." (Brooklyn Daily Eagle)
+1900-01-31 192 Gus Ruhlin 195 24 5 2
+Genesee A.C., Utica L-KO 4/20
+event
+bout
+score
+wiki
+Finnegan of Pittsburgh was on his back ten seconds after the first bell. He beat the count and survived the round, but took a beating in the second round, only saved by the bell. In the third round, two hard lefts knocked him through the ropes. He crawled back in to beat the count again, but his seconds had to carry him to his corner. Seconds into the 4th round Ruhlin dropped him again, and inside the next minute and a half he dumped "The Pittsburg Stogie" on the canvas four more times. As the police moved to stop the fight, Richard McCormick, Finnegan's manager, ran into the ring and carried his man to his corner.
+1899-12-22 Jack McCormick 13 13 4
+Genesee A.C., Utica W-TKO 18/20
+event
+bout
+score
+wiki
+ref: Tim Hurst
+From the Boston Globe.
+1899-11-18 Australian Jim Ryan 20 18 12
+Saint Louis D-PTS 20/20
+event
+bout
+score
+wiki
+Editor's note: It was around the time of this fight that John Finnegan gained a modicum of national notice and certain newspapers began occasionally referring to him by the nickname "Jack". Historians over the decades have embraced it, but from the beginning of his career to the finish he more often went by his given name of "John", so it seems appropriate to reassert it here for the official record.
+1899-11-13 170 Jack Bonner 170 45 10 13
+Metropolitan A.C., Wheeling D-PTS 20/20
+event
+bout
+score
+wiki
+ref: PJ Murphy
+Results from the Pittsburgh Commercial Gazette.
+1899-02-27 Mike Creedon 5 3 0
+Greater Pittsburgh Club, Homestead W-TKO 5/20
+event
+bout
+score
+wiki
+ref: Billy Corcoran
+Results from the Pittsburgh Press and Pittsburgh Post-Gazette(John Gruber series). John Finnegan had Creedon going from the first round on.
+1899-01-16 John J Cavanaugh 9 2 3
+Lenox Athletic Club, Mount Oliver L-PTS 20/20
+event
+bout
+score
+wiki
+ref: Joe Leonard
+Results from the Pittsburgh press. Finnegan fighting as "John Finnegan". Red Mason managed Cavanaugh. Finnegan floored in the 17th.
+1898-10-25 Tom Lansing 163 12 4 3
+Ariel Club, Wheeling W-DQ 14/20
+event
+bout
+score
+wiki
+ref: Leslie Pearce
+Results from the Pittsburgh Press and Pittsburgh Sunday Post(John Gruber Series). "Australian" Jimmy Ryan was to fight John Finnegan but backed out at the last minute. Lansing disqualified for hitting on breakaways.
+1898-05-19 Jim Scanlan 8 0 1
+Mansfield Club, Carnegie D-PTS 20/20
+event
+bout
+score
+wiki
+ref: Buck Cornelius
+Results from the Pittsburgh Press and Pittsburgh Post-Gazette(John Gruber series).
+1896-02-17 158 Herman Beck 158 0 1 0
+Maennerchor Hall, McKees Rocks D-PTS 10/10
+event
+bout
+score
+wiki
+ref: Al Cratty
+Results from the Pittsburgh Press and Pittsburgh Sunday Post(John Gruber series). This was a Red Mason show. John Finnegan and Herman Beck were rivals since their amateur days. This was an "excellent contest". Beck had the better in the early rounds with Finnegan coming on strong in the later rounds. In the tenth Finnegan floored Beck for an eight count and "made the house ring". Upon rising Beck tried feebly to defend himself while Finnegan pummeled him. At the call of time Referee Cratty was unable to arrive at a decision and ordered the men to box one more round. The men started in for the eleventh round, but were stopped by a county official. Cratty ruled the bout a draw.
+1896-01-27 Mike Lewis 1 0 0
+Turner Hall, McKees Rocks NC-NC 4/4
+event
+bout
+score
+wiki
+Results from the Pittsburgh Press. Exact result unknown.
+1896-01-17 David Corbitt debut
+Opera House, Homestead W-DQ 3/8
+event
+bout
+score
+wiki
+ref: John D Pringle
+Results from the Pittsburgh Press and Pittsburgh Sunday Post(John Gruber series). According to Gruber this was Finnegan's professional debut after a series of amateur bouts. He fought under the name "John Finnegan" and the fight was held at the Opera House under the auspices of Red Mason. Corbitt nearly knocked out in the first round. Finnegan floored Corbitt again in the third. Upon rising Corbitt grabbed Finnegan's legs and lifted him off the ground . The referee broke it up. Corbitt was warned but repeated the foul when Finnegan rushed him. The referee disqualified Corbitt.
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

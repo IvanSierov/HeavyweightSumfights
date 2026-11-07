@@ -1,0 +1,458 @@
+shop
+wiki
+forum
+follow
+login
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+
+Roland LaStarza
+57 9 0
+27 KOs 2 KOs
+10 followers
+Box-pro Box-am All Bouts
+division heavy
+status inactive
+bouts 66
+rounds 446
+KOs 47.37%
+career 1947-1961
+debut 1947-07-07
+
+ID# 012212
+sex male
+nationality USA
+stance orthodox
+height 6′ 0″   /   183cm
+residence The Bronx, New York, USA
+birth place The Bronx, New York, USA
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 66 bouts
+date w-l-d last 6 result
+May 61 Monroe Ratliff 16 18 4
+Kezar Pavilion, San Francisco
+L
+event
+bout
+wiki
+Dec 60 Ike Thomas 6 23 3
+Plaza Ballroom, Paterson
+W
+event
+bout
+wiki
+LaStarza was knocked down in the 1st round.
+Nov 60 Danny Logan 9 6 0
+Plaza Ballroom, Paterson
+W
+event
+bout
+wiki
+Dec 58 Larry Zernitz 19 5 1
+St. Nicholas Arena, New York
+L
+event
+bout
+wiki
+Oct 57 Al Anderson 5 12 1
+Valley Arena, Holyoke
+W
+event
+bout
+wiki
+Jun 57 Jimmy McMillan 4 14 0
+Sam Houston Coliseum, Houston
+W
+event
+bout
+wiki
+Mar 55 Julio Mederos 16 7 2
+Miami Stadium, Miami
+L
+event
+bout
+wiki
+LaStarza was down in the 1st, 3rd, and the 5th
+Dec 54 Charley Norkus 25 12 0
+Arena, Cleveland
+L
+event
+bout
+wiki
+Mar 54 Don Cockell 63 11 1
+Earls Court Arena, Kensington
+L
+event
+bout
+wiki
+Sep 53 Rocky Marciano 44 0 0
+Polo Grounds, New York
+L
+event
+bout
+wiki
+National Boxing Association (1921-1962) World Heavy
+1953 Fight of the Year - Ring Magazine; LaStarza was knocked through the ropes before the fight was stopped. Marciano was warned six or seven times for fouls but it seems no points were taken.
+Feb 53 Rex Layne 40 5 2
+Madison Square Garden, New York
+W
+event
+bout
+wiki
+Dec 52 Rocky Jones 15 9 2
+Eastern Parkway Arena, Brooklyn
+W
+event
+bout
+wiki
+LaStarza was knocked down in the 2nd, Jones was down in the 3rd
+Oct 52 Rocky Jones 14 9 2
+Armory, Akron
+L
+event
+bout
+wiki
+LaStarza appeared to be bothered by a cut from the 5th round on.
+May 52 Dan Bucceroni 41 2 0
+Madison Square Garden, New York
+W
+event
+bout
+wiki
+Bucceroni was down five times.
+Apr 52 Joe McFadden 6 2 1
+St. Nicholas Arena, New York
+W
+event
+bout
+wiki
+Bout stopped because of a bad cut over McFadden's left eye.
+Feb 52 Ralph Schneider 16 5 2
+Auditorium, Miami Beach
+W
+event
+bout
+wiki
+Feb 52 Bill Wilson 45 16 3
+Legion Arena, West Palm Beach
+W
+event
+bout
+wiki
+Dec 51 Dan Bucceroni 39 2 0
+Madison Square Garden, New York
+L
+event
+bout
+wiki
+LaStarza was hurt badly in the 2nd, he had been a 1-4 favorite.
+Aug 51 Ted Lowry 70 62 10
+Long Beach Stadium, Long Beach
+W
+event
+bout
+wiki
+Jun 51 Gene Felton 16 19 1
+Coliseum, Baltimore
+W
+event
+bout
+wiki
+May 51 Vern Mitchell 55 12 2
+St. Nicholas Arena, New York
+W
+event
+bout
+wiki
+Mitchell was down twice. The ring doctor waved for a stoppage of the bout as Mitchell was on the floor for the seond time
+Mar 51 Keene Simmons 8 9 1
+Rhode Island Auditorium, Providence
+W
+event
+bout
+wiki
+Feb 51 Curt Kennedy 26 4 0
+Rhode Island Auditorium, Providence
+W
+event
+bout
+wiki
+Jan 51 Ted Lowry 70 58 10
+Rhode Island Auditorium, Providence
+W
+event
+bout
+wiki
+Oct 50 Duilio Spagnolo 26 8 3
+St. Nicholas Arena, New York
+W
+event
+bout
+wiki
+Aug 50 Keene Simmons 7 6 1
+Long Beach Stadium, Long Beach
+W
+event
+bout
+wiki
+May 50 Georgie Fuller 16 13 3
+Mara's Arena, Waterbury
+W
+event
+bout
+wiki
+May 50 Jimmy Walls 12 21 2
+Valley Arena, Holyoke
+W
+event
+bout
+wiki
+Mar 50 Rocky Marciano 25 0 0
+Madison Square Garden, New York
+L
+event
+bout
+wiki
+Under New York's supplemental scoring system referee Watson had Marciano winning 9-6, so Marciano was awarded a split decision.
+LaStarza was down for a seven-count in round four, Marciano lost the eighth round due to a low blow.
+Dec 49 Cesar Brion 25 2 0
+Madison Square Garden, New York
+W
+event
+bout
+wiki
+Oct 49 Walter Hafer 18 16 1
+St. Nicholas Arena, New York
+W
+event
+bout
+wiki
+Sep 49 Joe Dominic 17 8 0
+Long Beach Stadium, Long Beach
+W
+event
+bout
+wiki
+Jul 49 Jackie Lyons 36 21 3
+Long Beach Stadium, Long Beach
+W
+event
+bout
+wiki
+Jun 49 Harry Haft 12 5 0
+Coney Island Velodrome, Brooklyn
+W
+event
+bout
+wiki
+Jun 49 Jimmy Carollo 35 15 2
+Queensboro Arena, Long Island City, Queens
+W
+event
+bout
+wiki
+Apr 49 Eldridge Eatman 22 19 5
+Sunnyside Garden, Sunnyside, Queens
+W
+event
+bout
+wiki
+Feb 49 Gino Buonvino 20 9 7
+Madison Square Garden, New York
+W
+event
+bout
+wiki
+Buonvino was knocked down twice in the 5th round.
+Jan 49 Bill Weinberg 41 16 5
+Madison Square Garden, New York
+W
+event
+bout
+wiki
+Dec 48 Gene Gosney 13 1 0
+Madison Square Garden, New York
+W
+event
+bout
+wiki
+LaStarza was down twice in the 4th round. Bout was stopped because of a severe cut over Gosney's left eye which occurred in the sixth round.
+Nov 48 Don Mogard 17 2 1
+Ridgewood Grove, Queens
+W
+event
+bout
+wiki
+Mogard was knocked down twice in the 1st
+Oct 48 Mike Jacobs 13 10 3
+Jamaica Arena, Jamaica, Queens
+W
+event
+bout
+wiki
+Sep 48 Don Mogard 16 1 1
+Yankee Stadium, The Bronx
+W
+event
+bout
+wiki
+Aug 48 Mel McKinney 8 9 1
+Queensboro Arena, Long Island City, Queens
+W
+event
+bout
+wiki
+Aug 48 Teddy Georges debut
+MacArthur Stadium, Brooklyn
+W
+event
+bout
+wiki
+Jul 48 Oscar Goode 42 21 2
+MacArthur Stadium, Brooklyn
+W
+event
+bout
+wiki
+Jul 48 Tony Gangemi 21 15 2
+Jerome Stadium, The Bronx
+W
+event
+bout
+wiki
+Jun 48 Benny Rusk 22 18 5
+Yankee Stadium, The Bronx
+W
+event
+bout
+wiki
+May 48 Freddie McManus 19 13 2
+Park Arena, The Bronx
+W
+event
+bout
+wiki
+Apr 48 John Holloway 2 9 0
+Ridgewood Grove, Queens
+W
+event
+bout
+wiki
+Apr 48 Claude McClintock 0 2 0
+State Armory, Bridgeport
+W
+event
+bout
+wiki
+Mar 48 Steve King 9 1 1
+Madison Square Garden, New York
+W
+event
+bout
+wiki
+Feb 48 Jimmy White 9 16 0
+Park Arena, The Bronx
+W
+event
+bout
+wiki
+Feb 48 Frankie Reed 1 7 0
+Ridgewood Grove, Queens
+W
+event
+bout
+wiki
+Jan 48 Mike Belluscio 15 9 1
+Madison Square Garden, New York
+W
+event
+bout
+wiki
+Dec 47 Luther McMillan 13 17 1
+Park Arena, The Bronx
+W
+event
+bout
+wiki
+Dec 47 Fred Ramsey 9 8 1
+Ridgewood Grove, Queens
+W
+event
+bout
+wiki
+Dec 47 Matt Mincy 0 6 0
+St. Nicholas Arena, New York
+W
+event
+bout
+wiki
+Nov 47 Lorne McCarthy 1 6 1
+Park Arena, The Bronx
+W
+event
+bout
+wiki
+Oct 47 Jimmy Evans 16 4 0
+Madison Square Garden, New York
+W
+event
+bout
+wiki
+Oct 47 Matt Mincy 0 4 0
+Park Arena, The Bronx
+W
+event
+bout
+wiki
+Oct 47 Zeke Brown 0 8 0
+St. Nicholas Arena, New York
+W
+event
+bout
+wiki
+Sep 47 Jim Johnson 3 16 2
+Jerome Stadium, The Bronx
+W
+event
+bout
+wiki
+Aug 47 Jimmy Dodd 8 7 2
+Queensboro Arena, Long Island City, Queens
+W
+event
+bout
+wiki
+Aug 47 Al Zappala 23 26 1
+Jerome Stadium, The Bronx
+W
+event
+bout
+wiki
+Jul 47 Zack Johnson 2 0 0
+Jerome Stadium, The Bronx
+W
+event
+bout
+wiki
+Jul 47 Dave Glanton 1 10 0
+Queensboro Arena, Long Island City, Queens
+W
+event
+bout
+wiki
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

@@ -1,0 +1,308 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+John Tate
+
+John Tate
+34 3 0
+23 KOs 2 KOs
+15 followers
+Box-pro Box-am All Bouts
+division heavy
+status inactive
+bouts 37
+rounds 200
+KOs 67.65%
+career 1977-1988
+debut 1977-05-07
+
+ID# 000430
+sex male
+alias Big John
+nationality USA
+stance orthodox
+height 6′ 4″   /   193cm
+reach 80″   /   203cm
+residence Knoxville, Tennessee, USA
+birth place Marion, Arkansas, USA
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 37 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+1988-03-30 281 Noel Quarless 221 16 9 0
+York Hall, Bethnal Green L-PTS 10/10
+event
+bout
+score
+wiki
+ref: Dave Parris 97½-98
+1988-01-16 Wesley Smith 4 18 1
+Viking Hall, Bristol W-UD 4/4
+event
+bout
+score
+wiki
+40-33    40-36    40-33
+Smith down in 2nd and 3rd
+1987-12-19 Mark Green 0 4 0
+Newport W-KO 1/6
+event
+bout
+score
+wiki
+1987-11-28 293 Calvin Jones 225 debut
+Bristol Sports Arena, Bristol W-MD 4/4
+event
+bout
+score
+wiki
+40-36    40-36    38-38
+Pro debut for Jones
+1986-04-17 274 Steve Eisenbarth 235 10 1 1
+Civic Auditorium, Bakersfield W-TKO 1/10
+event
+bout
+score
+wiki
+2:32    ref: Robert Byrd   Raul Caiz Sr   Marty Denkin
+1983-08-19 242 Marty Capasso 212 19 4 0
+Auditorium, West Palm Beach W-KO 2/10
+event
+bout
+score
+wiki
+1983-04-10 241 Donnie Long 221 13 1 0
+Hilton Hotel, Pittsburgh W-UD 10/10
+event
+bout
+score
+wiki
+ref: Andy DePaul 48-41   Bob Baker 49-39   Bernie Vukelich 49-40
+1983-01-13 238 Danny Sutton 212 17 2 0
+Viking Hall, Bristol W-TKO 5/10
+event
+bout
+score
+wiki
+2:55    ref: Stanley Berg
+1982-08-27 Bruce Grandham 13 5 0
+Viking Hall, Bristol W-TKO 3/10
+event
+bout
+score
+wiki
+1982-07-08 242 Leroy Boone 228 15 11 2
+Civic Coliseum, Knoxville W-UD 10/10
+event
+bout
+score
+wiki
+John Anderson 99-93   Raleigh Johnson 97-94   Floyd Miller 99-92
+1982-03-25 241 Leroy Caldwell 201 27 26 6
+Showboat Hotel & Casino, Sports Pavilion, Las Vegas W-UD 10/10
+event
+bout
+score
+wiki
+ref: Davey Pearl   Duane Ford 99-91   Chuck Minker 98-92   Dalby Shirley 97-93
+1981-11-27 240 Chuck Gardner 235 14 6 0
+Civic Coliseum, Knoxville W-KO 1/10
+event
+bout
+score
+wiki
+2:25    ref: Deacon Bowers
+1981-10-15 240 Barry Funches 200 7 3 1
+Sands Casino Hotel, Atlantic City W-TKO 7/10
+event
+bout
+score
+wiki
+2:59    ref: Paul Venti   Rudy Battle   Milo Savage
+1981-08-08 240 Claman Parker 203 31 14 1
+Bill Meyer Stadium, Knoxville W-TKO 1/10
+event
+bout
+score
+wiki
+1981-02-15 242½ Harvey Steichen 219½ 14 9 0
+Civic Coliseum, Knoxville W-UD 10/10
+event
+bout
+score
+wiki
+John Anderson 100-90   Jack Cox 100-90   Charles Lovell 99-92
+1980-06-20 232½ Trevor Berbick 216¾ 14 1 1
+Olympic Stadium, Montreal L-KO 9/10
+event
+bout
+score
+wiki
+0:22    Desmond Green   Jacques Mailhot   Jean Marie Pellerin
+1980-03-31 232 Mike Weaver 207½ 21 9 0
+Stokley Athletics Center, Knoxville L-KO 15/15
+event
+bout
+score
+wiki
+2:15    ref: Ernesto Magana 138-133   Nicasio Lorenzo Drake 137-134   Cesar Ramos 136-133
+The referee took away a point from Weaver for low blows in round 14.
+1979-10-20 240 Gerrie Coetzee 222 22 0 0
+Loftus Versfeld Stadium, Pretoria W-UD 15/15
+event
+bout
+score
+wiki
+ref: Carlos Berrocal 147-144   Carlos Martinez Casas 148-145   Ken Morita 147-142
+Attendance: 86, 000
+1979-06-02 233¾ Kallie Knoetze 226 17 2 0
+Independence Stadium, Mmabatho W-TKO 8/12
+event
+bout
+score
+wiki
+2:52    ref: Isidro Rodriguez   Stanley Christodoulou   Jay Edson
+1979-02-17 229½ Duane Bobick 207 48 2 0
+Market Square Arena, Indianapolis W-TKO 1/10
+event
+bout
+score
+wiki
+2:15    ref: George DeFabis   Tom Catterson   Joe Sgro
+1978-12-09 Ron Draper 210 5 10 0
+Cobo Arena, Detroit W-KO 5/10
+event
+bout
+score
+wiki
+1978-10-14 235 Roy Wallace 214 22 27 2
+Summit, Houston W-TKO 9/10
+event
+bout
+score
+wiki
+2:17    ref: Mark Tessman
+1978-08-25 Johnny Boudreaux 212 21 4 1
+Summit, Houston W-SD 10/10
+event
+bout
+score
+wiki
+ref: Deacon Bowers 100-90   Robert Gonzalez 95-97   Chris Jordan 98-94
+1978-07-07 Walter Santemore 10 2 0
+Orlando Sports Stadium, Orlando W-KO 6/10
+event
+bout
+score
+wiki
+1978-06-22 226½ Bernardo Mercado 222 20 0 0
+Madison Square Garden, New York W-TKO 2/10
+event
+bout
+score
+wiki
+2:24    ref: Joe Santarpia
+1978-05-13 Raul Gorosito 15 12 6
+Orlando Sports Stadium, Orlando W-KO 2/8
+event
+bout
+score
+wiki
+Gorosito down 3 times in the 2nd round.
+1978-04-25 Harold Carter 20 42 4
+Orlando Sports Stadium, Orlando W-DQ 4/10
+event
+bout
+score
+wiki
+ref: Ron Hill
+1978-03-14 233 Leon Shaw 18 10 1
+Orlando Sports Stadium, Orlando W-KO 7/10
+event
+bout
+score
+wiki
+2:32    ref: Ron Hill
+1978-01-29 James Dixon 6 5 1
+Hyatt Regency Hotel, Knoxville W-TKO 3/8
+event
+bout
+score
+wiki
+2:45    ref: Deacon Bowers
+1977-12-03 Charlie Jordan 215 12 40 2
+Civic Coliseum, Knoxville W-RTD 1/10
+event
+bout
+score
+wiki
+1977-11-18 224½ Frank Schram 205 17 8 0
+Hilton Hotel, Las Vegas W-TKO 1/6
+event
+bout
+score
+wiki
+ref: Carlos Padilla
+1977-10-22 228 Lou Esa 252 18 2 1
+Aladdin Theater, Las Vegas W-KO 3/6
+event
+bout
+score
+wiki
+1977-09-13 229 Eddie Lopez 210 10 0 0
+Olympic Auditorium, Los Angeles W-MD 6/6
+event
+bout
+score
+wiki
+ref: Richard Steele 59-56   Vince Delgado 58-57   John Thomas 58-58
+1977-08-23 230 Walter Santemore 202 5 0 0
+Holiday Inn Rivermont, Memphis W-UD 6/6
+event
+bout
+score
+wiki
+1977-08-20 Baker Tinsley 2 0 0
+High School Gym, Pikeville W-KO 2/6
+event
+bout
+score
+wiki
+1977-06-01 220 Norm Kues 193 debut
+Forum, Montreal W-KO 1/6
+event
+bout
+score
+wiki
+1:45    ref: Nick Nickolo
+Pro debut for Kues
+1977-05-07 202 Jerry Thompkins 6 3 0
+Kiel Auditorium, Saint Louis W-TKO 5/6
+event
+bout
+score
+wiki
+2:40    ref: Jim Reddick
+Pro debut for Tate.
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

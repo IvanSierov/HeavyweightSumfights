@@ -1,0 +1,296 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+Michael Spinks
+
+Michael Spinks
+31 1 0
+21 KOs 1 KOs
+61 followers
+Box-pro Box-am All Bouts
+division light heavy
+status inactive
+bouts 32
+rounds 226
+KOs 67.74%
+career 1977-1988
+debut 1977-04-16
+
+ID# 001286
+sex male
+alias Jinx
+nationality USA
+stance orthodox
+height 6′ 2½″   /   189cm
+reach 76″   /   193cm
+residence Saint Louis, Missouri, USA
+birth place Saint Louis, Missouri, USA
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 32 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+1988-06-27 212¼ Mike Tyson 218¼ 34 0 0
+Convention Hall, Atlantic City L-KO 1/12
+event
+bout
+score
+wiki
+1:31    ref: Frank Cappuccino   Rocky Castellani   Eva Shain   John Stewart
+IBF World Heavy (supervisor: Bill Brennan)
+WBC World Heavy (supervisor: Elias Ghanem)
+1987-06-15 208¾ Gerry Cooney 238 28 1 0
+Convention Center, Atlantic City W-TKO 5/15
+event
+bout
+score
+wiki
+2:51    ref: Frank Cappuccino   Tom Kaczmarek 38-38   Harold Lederman 37-39   John Stewart 39-37
+Cooney down twice in Round 5
+Advertised as for World heavyweight Title
+1986-09-06 201 Steffen Tangstad 214¾ 24 1 2
+Las Vegas Hilton, Hilton Center, Las Vegas W-TKO 4/15
+event
+bout
+score
+wiki
+0:58    ref: Richard Steele   Phil Newman 29-27   Dalby Shirley 29-27   Charlie Spina 30-26
+IBF World Heavy (supervisor: Robert Lee)
+1986-04-19 205 Larry Holmes 223 48 1 0
+Las Vegas Hilton, Hilton Center, Las Vegas W-SD 15/15
+event
+bout
+score
+wiki
+ref: Mills Lane   Frank Brunette 144-141   Joe Cortez 141-144   Jerry Roth 144-142
+IBF World Heavy (supervisor: Robert Lee)
+1985-09-21 199¾ Larry Holmes 221½ 48 0 0
+Riviera Hotel & Casino, Outdoor Arena, Las Vegas W-UD 15/15
+event
+bout
+score
+wiki
+ref: Carlos Padilla   Harold Lederman 143-142   Dave Moretti 143-142   Lawrence Wallace 145-142
+IBF World Heavy (supervisor: Jimmy Rondeau)
+Spinks vacated the Light Heavyweight Title immediately after this fight
+1985-06-06 175 Jim MacDonald 172¼ 16 0 0
+Riviera Hotel & Casino, SuperStar Center, Las Vegas W-TKO 8/15
+event
+bout
+score
+wiki
+1:30    ref: Davey Pearl   Dave Moretti 70-60   Dalby Shirley 70-61   Lou Tabat 70-59
+IBF World Light Heavy
+WBC World Light Heavy (supervisor: Jose Sulaiman)
+MacDonald down twice in the 5th, once in the 7th and 8th.
+1985-02-23 170½ David Sears 173¾ 16 0 1
+Sands Casino Hotel, Atlantic City W-TKO 3/15
+event
+bout
+score
+wiki
+1:02    ref: Larry Hazzard   Joe O'Neill 20-19   Joe Santarpia 18-20   Stuart Winston 18-20
+IBF World Light Heavy
+WBC World Light Heavy
+1984-02-25 172 Eddie Davis 173½ 27 3 1
+Resorts International, Atlantic City W-UD 12/12
+event
+bout
+score
+wiki
+ref: Frank Cappuccino   Carol Castellano 115-114   Joe Cortez 119-109   Larry Hazzard 118-111
+IBF World Light Heavy (supervisor: Robert Lee)
+WBC World Light Heavy
+1983-11-25 173¾ Oscar Rivadeneyra 173¼ 18 0 0
+Pacific Coliseum, Vancouver W-TKO 10/15
+event
+bout
+score
+wiki
+1:42    ref: Joe Cortez 89-82   Nicasio Lorenzo Drake 88-85   Isidro Rodriguez 89-86
+WBC World Light Heavy
+1983-03-18 173 Dwight Muhammad
+Qawi 174 19 1 1
+Convention Center, Atlantic City W-UD 15/15
+event
+bout
+score
+wiki
+ref: Larry Hazzard   Frank Cappuccino 144-141   Tony Castellano 144-140   Tony Perez 144-141
+WBC World Light Heavy
+Spinks ruled down rd 8.
+1982-09-18 172¾ Johnny Davis 173½ 13 3 0
+Sands Casino Hotel, Atlantic City W-TKO 9/15
+event
+bout
+score
+wiki
+2:27    ref: Larry Hazzard   Frank Cappuccino 79-74   Paul Cavalier 79-73   Vincent Rainone 78-73
+1982-06-12 173¾ Jerry Celestine 174¼ 23 6 1
+Playboy Hotel & Casino, Atlantic City W-TKO 8/15
+event
+bout
+score
+wiki
+1:58    ref: Jimmy Rondeau   Harry Cecchini 68-65   Ismael Fernandez 68-65   Eva Shain 68-65
+1982-04-11 172 Murray Sutherland 173¾ 31 6 0
+Playboy Hotel & Casino, Atlantic City W-TKO 8/15
+event
+bout
+score
+wiki
+1:24    ref: Zach Clayton   Larry Hazzard 67-66   Vincent Rainone 68-65   Sammy Sangis 69-66
+1982-02-13 173¾ Mustafa Wasajja 174½ 24 0 1
+Playboy Hotel & Casino, Atlantic City W-TKO 6/15
+event
+bout
+score
+wiki
+1:36    ref: Tony Perez   Humberto Figueroa 50-46   Cesar Ramos 50-46   Waldemar Schmidt 50-45
+1981-11-07 173 Vonzell Johnson 174¼ 22 2 0
+Playboy Hotel & Casino, Atlantic City W-TKO 7/15
+event
+bout
+score
+wiki
+1:13    ref: Larry Hazzard   Frank Cappuccino 59-55   Paul Cavalier 59-55   Eva Shain 58-56
+1981-07-18 173¾ Eddie Mustafa
+Muhammad 175 38 5 1
+Imperial Palace Hotel, Las Vegas W-UD 15/15
+event
+bout
+score
+wiki
+ref: Richard Green   Duane Ford 146-138   Chuck Minker 145-139   Lou Tabat 144-140
+1981-03-28 176 Marvin Johnson 174¼ 27 4 0
+Resorts International, Atlantic City W-KO 4/10
+event
+bout
+score
+wiki
+1:22    ref: Joe Cortez 3-0   Frank Brunette 2-1   Milo Savage
+1981-01-24 176 Willie Taylor 178 13 9 3
+Martin Luther King Arena, Philadelphia W-TKO 8/10
+event
+bout
+score
+wiki
+2:40    ref: Charley Sgrillo
+1980-10-18 176 Yaqui Lopez 178¼ 49 10 0
+Convention Center, Atlantic City W-TKO 7/10
+event
+bout
+score
+wiki
+0:46    ref: Vincent Rainone 4-2   Richard F Murry 4-2   Eva Shain 3-3
+Lopez was knocked down once in the 7th round
+1980-08-02 177 David Conteh 185 10 6 1
+Centroplex, Baton Rouge W-TKO 9/10
+event
+bout
+score
+wiki
+1980-05-04 179 Murray Sutherland 174½ 16 4 0
+Concord Hotel, Kiamesha Lake W-UD 10/10
+event
+bout
+score
+wiki
+ref: Tony Perez 7-2   Harold Lederman 7-3   Eva Shain 9-1
+Sutherland was knocked down in the 8th round. Referee Tony Perez scored it Spinks-7, Sutherland-2, 1 Even.
+1980-02-24 174 Ramon Ranquello 176 15 6 2
+Resorts International, Atlantic City W-TKO 6/10
+event
+bout
+score
+wiki
+ref: Tony Perez   William Kostrub   Eva Shain
+The referee stopped the bout after the 6th round, on advice of the ringside physician
+1980-02-01 175 Johnny Wilburn 172 17 7 0
+Louisville Gardens, Louisville W-UD 8/8
+event
+bout
+score
+wiki
+1979-11-24 180 Marc Hans 175 9 10 0
+Metropolitan Sports Center, Bloomington W-TKO 1/8
+event
+bout
+score
+wiki
+1978-12-15 170¾ Eddie Phillips 170 5 10 0
+Westchester County Center, White Plains W-TKO 4/8
+event
+bout
+score
+wiki
+1:33    ref: George Coyle
+1978-02-15 170 Tom Bethea 172 22 18 3
+Hilton Hotel, Las Vegas W-UD 8/8
+event
+bout
+score
+wiki
+ref: Buddy Basilico   Mike Kaplan 40-32   Hal Miller 40-32   Dave Moretti 40-32
+1977-10-22 169 Gary Summerhays 172 28 12 3
+Aladdin Theater, Las Vegas W-UD 8/8
+event
+bout
+score
+wiki
+ref: Carlos Padilla   Bill Kipp 40-33   Art Lurie 38-34   Lou Tabat 39-34
+1977-09-13 168 Ray Elson 174 15 1 1
+Olympic Auditorium, Los Angeles W-KO 1/8
+event
+bout
+score
+wiki
+1977-08-23 166 Jasper Brisbane 173 5 0 1
+Spectrum, Philadelphia W-TKO 2/6
+event
+bout
+score
+wiki
+2:56    ref: Ozzie Sadler
+1977-06-01 167 Joe Borden 178 20 9 2
+Forum, Montreal W-KO 2/6
+event
+bout
+score
+wiki
+2:20    ref: Guy Jutras
+1977-05-07 166 Luis Rodriguez 6 3 0
+Kiel Auditorium, Saint Louis W-UD 6/6
+event
+bout
+score
+wiki
+ref: Paul Spica    60-52    60-54    60-55
+1977-04-16 168 Eddie Benson 165 2 4 0
+Aladdin Theater, Las Vegas W-TKO 1/6
+event
+bout
+score
+wiki
+2:55    ref: Ferd Hernandez
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

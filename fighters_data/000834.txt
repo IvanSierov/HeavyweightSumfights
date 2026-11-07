@@ -1,0 +1,472 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+Tony Tubbs
+
+Tony Tubbs
+47 10 0
+25 KOs 5 KOs
+21 followers
+Box-pro Box-am All Bouts
+division heavy
+status inactive
+bouts 59
+rounds 368
+KOs 53.19%
+career 1980-2006
+debut 1980-06-14
+
+ID# 000834
+sex male
+alias TNT
+nationality USA
+stance orthodox
+height 6′ 3″   /   190cm
+reach 79″   /   201cm
+residence Santa Monica, California, USA
+birth place Cincinnati, Ohio, USA
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 59 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+2006-11-04 260 Adam Smith 6 16 1
+Waterfront Hotel, Morgantown W-UD 6/6
+event
+bout
+score
+wiki
+ref: Paul Thornton    60-54    60-54    60-54
+2005-08-06 245 Jason Waller 204 28 28 4
+Grand Victoria Casino, Rising Sun W-TKO 7/8
+event
+bout
+score
+wiki
+2:05    ref: Kurt Spivey   Fred Jones   Gary Merritt   Bill Paige
+~ Waller knocked down 3 times in round 7 ~
+2005-02-25 257 Dan Wofford 240 17 99 2
+Municipal Auditorium, Nashville W-UD 6/6
+event
+bout
+score
+wiki
+Wofford was knocked down in the 6th round.
+2004-12-30 258 Brian Minto 212 18 0 0
+Mountaineer Casino Racetrack and Resort, Chester W-SD 10/10
+event
+bout
+score
+wiki
+ref: Cranston David Johnson   Rex Agin 96-94   David Ashley 96-94   Jim Paunchnik 93-97
+USA West Virginia State Heavy
+2004-10-29 253 Brian Sargent 327 16 13 0
+Civic Arena, Saint Joseph W-TKO 1/6
+event
+bout
+score
+wiki
+1:25    ref: Mike England   Ron Bausch   Fred Fensom   Leo Johnson
+2003-07-25 248½ Abraham Okine 225 8 0 0
+Lakeview Resort, Morgantown L-TKO 8/10
+event
+bout
+score
+wiki
+2003-01-17 258 Gilbert Martinez 218 14 4 1
+Palace Indian Gaming Center, Lemoore L-UD 10/10
+event
+bout
+score
+wiki
+ref: Marty Sammon   Abe Belardo 92-98   Terry Smith 94-96   Dan Stell 94-97
+2002-03-26 240 Michael Shanks 200 1 7 0
+Cumberland Place, West Lafayette W-TKO 2/4
+event
+bout
+score
+wiki
+0:52    Blake Allen   Paula Duffy   Johnny Jackson
+1997-08-30 250 Mario Melo 229¼ 21 6 0
+Estadio Polideportivo, Mar del Plata W-KO 5/10
+event
+bout
+score
+wiki
+1995-10-20 240 Brian Nielsen 258 21 0 0
+Cirkusbygningen, Copenhagen L-RTD 3/10
+event
+bout
+score
+wiki
+ref: Jess Andreasen
+1995-08-25 254¾ Alexander Zolkin 244 22 2 0
+Ballys Park Place Hotel Casino, Atlantic City L-MD 12/12
+event
+bout
+score
+wiki
+ref: Eddie Cotton   Al DeCesar 113-115   Joe Ware 114-116   Eugenia Williams 114-114
+North American Boxing Federation Heavy (supervisor: Sammy Macias)
+1995-03-29 241 Andre Crowder 206 6 28 2
+Shoemaker Center, Cincinnati W-KO 1/10
+event
+bout
+score
+wiki
+1994-12-06 246 James Thunder 236 22 5 0
+The Palace, Auburn Hills L-MD 12/12
+event
+bout
+score
+wiki
+ref: Sam Williams   Rocky Burke 114-114   John Daddono 113-114   Rosemary Grable 114-115
+IBO World Heavy
+1994-10-04 238 William Morris 219 13 10 1
+The Palace, Auburn Hills NC-NC 10/10
+event
+bout
+score
+wiki
+ref: Dale Grable   Dario Chiarini   James Hoomaian   Bernard Teachout
+1994-02-22 245 Everett Martin 245 18 17 1
+The Palace, Auburn Hills W-UD 10/10
+event
+bout
+score
+wiki
+ref: Sam Williams   Eugene Acey 100-90   Dario Chiarini 100-90   Frank Garza 100-90
+1993-12-03 258 Daniel Dancuta 250 10 1 0
+Casino Magic, Bay Saint Louis W-UD 3/3
+event
+bout
+score
+wiki
+ref: Elmo Adolph
+"People's Choice One-Night Heavyweight Tournament" fight (Final)
+1993-12-03 258 Tyrell Biggs 224 27 6 0
+Casino Magic, Bay Saint Louis W-UD 3/3
+event
+bout
+score
+wiki
+ref: Chester Comeaux    30-27    30-27    30-27
+"People's Choice One-Night Heavyweight Tournament" fight (Semi-final)
+1993-12-03 258 Jose Ribalta 241 33 10 1
+Casino Magic, Bay Saint Louis W-UD 3/3
+event
+bout
+score
+wiki
+ref: Chester Comeaux
+"People's Choice One-Night Heavyweight Tournament" fight (Quarter-final)
+1993-12-03 258 Willie Jackson 247 10 1 0
+Casino Magic, Bay Saint Louis W-KO 1/3
+event
+bout
+score
+wiki
+1:43    ref: Chester Comeaux
+"People's Choice One-Night Heavyweight Tournament" fight (Preliminary)
+1993-08-16 248 Jimmy Ellis 233 19 3 1
+Boise Center, Boise L-KO 1/10
+event
+bout
+score
+wiki
+0:22    ref: Ken Butler
+1993-04-27 232¾ Melton Bowen 216 25 3 0
+The Palace, Auburn Hills W-UD 10/10
+event
+bout
+score
+wiki
+ref: Sam Williams   Rosemary Grable 98-90   John Parish 100-87   Bernard Teachout 99-90
+Bowen was knocked down in rounds 4 and 6.
+1993-02-02 234 Alexander Zolkin 233 14 0 0
+The Palace, Auburn Hills W-UD 10/10
+event
+bout
+score
+wiki
+ref: Monte Oswald   Frank Garza 96-93   Glenn Hirch 97-92   Brad Wright 96-94
+1992-11-24 233 Jesse Ferguson 230 18 8 0
+The Palace, Auburn Hills W-UD 10/10
+event
+bout
+score
+wiki
+ref: Dale Grable   Eugene Acey 97-93   Rosemary Grable 100-90   James Smith Jr 97-93
+1992-10-14 238 Bruce Seldon 227 24 2 0
+Harrah's Marina Hotel Casino, Atlantic City W-UD 10/10
+event
+bout
+score
+wiki
+ref: Randy Neumann   Lynne Carter 97-92   Tom Kaczmarek 97-92   John Poturaj 98-91
+Seldon was knocked down in round 1
+1992-08-18 241 Lionel Butler 226 12 10 1
+Bayfront Auditorium, Pensacola L-KO 1/10
+event
+bout
+score
+wiki
+3:00    ref: Frank Santore Jr   Jay Kassees   Fred Sauers   Vincent Thomas
+1992-02-16 243 Leon Taylor 195 14 5 0
+Las Vegas Hilton, Las Vegas W-TKO 8/10
+event
+bout
+score
+wiki
+1:07    ref: Jay Nady
+1991-04-20 234¼ Riddick Bowe 226¼ 22 0 0
+Harrah's Marina Hotel Casino, Atlantic City L-UD 10/10
+event
+bout
+score
+wiki
+ref: Joe Cortez   Frank Cairo 94-96   Richard Strange 94-96   Eugenia Williams 94-97
+1990-10-20 244½ Lawrence Carter 229 19 2 0
+Trump Plaza Hotel, Atlantic City W-RTD 6/10
+event
+bout
+score
+wiki
+3:00    ref: Frank Cappuccino
+1990-07-28 245¾ Mike Cohen 219 28 15 0
+Trump Castle, Atlantic City W-TKO 6/10
+event
+bout
+score
+wiki
+2:59    ref: Tony Perez   John Poturaj
+Cohen down in rounds 2&6.
+1989-11-21 233 Orlin Norris 209¾ 22 1 0
+Civic Auditorium, Santa Monica NC-ND 12/12
+event
+bout
+score
+wiki
+Robert Byrd 116-112   Chuck Giampa 114-114   Glen Hamada 116-113
+North American Boxing Federation Heavy
+Tubbs was initially announced as the victor, but the verdict was changed to a no-decision after he tested positive for an illegal substance
+1989-06-24 238 Ladislao Mijangos 204 21 9 0
+Bakersfield W-TKO 3/10
+event
+bout
+score
+wiki
+ref: Robert Byrd
+1989-05-06 241½ Eddie Richardson 220 14 13 0
+Civic Center, Pensacola W-DQ 8/10
+event
+bout
+score
+wiki
+1:03    ref: Max Parker Jr
+Richardson DQ'd for an intentional head butt.
+1989-04-20 234¾ Mike Evans 244 17 2 1
+Redondo Beach Strand, Redondo Beach W-UD 10/10
+event
+bout
+score
+wiki
+Raul Caiz Sr 97-94   Kenny Davis 97-93   Vince Delgado 96-94
+1988-03-21 238 Mike Tyson 216 33 0 0
+Tokyo Dome L-KO 2/12
+event
+bout
+score
+wiki
+2:54    ref: Arthur Mercante   Ken Morita 10-10   Larry Rozadilla 10-9   Masakazu Uchida 9-10
+IBF World Heavy
+WBC World Heavy (supervisor: Gabriel Penagaricano)
+1987-09-29 228¾ Eddie Gonzales 226 24 5 0
+Celebrity Theater, Anaheim W-RTD 3/10
+event
+bout
+score
+wiki
+1987-05-30 233 Jerry Halstead 219 44 5 1
+Las Vegas Hilton, Outdoor Arena, Las Vegas W-UD 10/10
+event
+bout
+score
+wiki
+ref: Carlos Padilla   Bill Graham 98-93   Art Lurie 99-92   Jerry Roth 96-95
+1987-04-20 239 Mike Jameson 226 13 13 0
+Civic Auditorium, Santa Monica W-UD 10/10
+event
+bout
+score
+wiki
+ref: John Thomas   Chuck Hassett 97-92   Larry Rozadilla 98-91   Frank Rustich 98-92
+Tubbs down in 10th
+1986-01-17 244 Tim Witherspoon 227 23 2 0
+The Omni, Atlanta L-MD 15/15
+event
+bout
+score
+wiki
+ref: Nate Morgan   Harry Cecchini 143-144   Robert Ferrara 143-143   Eddie Woods 141-144
+1985-04-29 229 Greg Page 239½ 24 3 0
+Memorial Auditorium, Buffalo W-UD 15/15
+event
+bout
+score
+wiki
+ref: Vincent Rainone   Joe Santarpia 145-140   Albert Tremari 145-142   Al Wilensky 147-140
+1985-03-15 228¼ James Smith 236 14 2 0
+Riviera Hotel & Casino, Outdoor Arena, Las Vegas W-UD 10/10
+event
+bout
+score
+wiki
+ref: Davey Pearl   Dave Moretti 97-93   Jerry Roth 97-93   Herb Santos 97-93
+WBA Heavyweight Title Eliminator
+1985-01-16 242 Tim Miller 213 2 12 0
+Riviera Hotel & Casino, Las Vegas W-TKO 2/10
+event
+bout
+score
+wiki
+2:54    ref: Davey Pearl
+Miller claimed a record of 13-11, per the Las Vegas Review-Journal.
+1984-11-09 239 Jerry Williams 224 4 7 0
+Riviera Hotel & Casino, Outdoor Arena, Las Vegas W-TKO 7/10
+event
+bout
+score
+wiki
+2:39    ref: Joey Curtis
+1984-03-18 231½ Tom Trimm 205 17 6 0
+Civic Auditorium, Santa Monica W-TKO 2/10
+event
+bout
+score
+wiki
+0:35    ref: Robert Byrd   Gwen Farrell Adair   John Thomas
+1983-09-09 224 Gordon Racette 214 24 2 0
+Caesars Palace, Outdoor Arena, Las Vegas W-UD 10/10
+event
+bout
+score
+wiki
+Racette down 4 times in the bout.
+1983-04-10 222 Jimmy Young 214 30 13 2
+Hilton Hotel, Pittsburgh W-UD 10/10
+event
+bout
+score
+wiki
+ref: Paddy Grimes 49-42   Bob Baker 49-42   Bernie Vukelich 49-43
+1983-02-25 229 Larry Givens 218 3 12 0
+Cincinnati Gardens, Cincinnati W-TKO 7/10
+event
+bout
+score
+wiki
+1982-09-18 222 Steve Zouski 204½ 23 3 0
+Sands Casino Hotel, Atlantic City W-RTD 4/10
+event
+bout
+score
+wiki
+Zouski could not answer the 5th round bell.
+1982-08-07 221 Clarence Hill 203 12 0 0
+University of New Mexico, Albuquerque W-UD 10/10
+event
+bout
+score
+wiki
+ref: Neffie Quintana 98-94   Hugh Bishop 98-91   Jerry Hanson 99-93
+Tubbs down in 1st round
+1982-06-12 223 Claman Parker 31 16 1
+Playboy Hotel & Casino, Atlantic City W-TKO 1/?
+event
+bout
+wiki
+1982-04-11 237 Baker Tinsley 218¼ 14 19 0
+Playboy Hotel & Casino, Atlantic City W-KO 3/8
+event
+bout
+score
+wiki
+1981-12-18 220 Don Halpin 8 12 0
+David Lawrence Center, Pittsburgh W-UD 8/8
+event
+bout
+score
+wiki
+1981-11-21 226 Jesse Brown 0 3 0
+Vegas Club, Erlanger W-TKO 1/8
+event
+bout
+score
+wiki
+1981-08-21 228 Dennis Wimberly 196 0 1 0
+Dunn Sports Center, Elizabeth W-TKO 2/?
+event
+bout
+wiki
+1980-11-29 224 Mike Creel 218 4 9 0
+Olympic Auditorium, Los Angeles W-RTD 3/8
+event
+bout
+score
+wiki
+1980-11-22 222½ Larry Sims 216½ 2 4 1
+Riverfront Coliseum, Cincinnati W-TKO 3/6
+event
+bout
+score
+wiki
+ref: Danny Melillo
+Sims could not answer the fourth round bell.
+1980-11-14 232 John L Johnson 208 12 18 1
+Jai Alai Fronton, Miami W-TKO 1/6
+event
+bout
+score
+wiki
+1980-11-07 221 Ron Draper 199 8 17 1
+HemisFair Arena, San Antonio W-PTS 6/6
+event
+bout
+score
+wiki
+1980-08-02 213 Jerry Hunter 0 1 1
+Riverfront Coliseum, Cincinnati W-TKO 4/6
+event
+bout
+score
+wiki
+1980-06-14 222 Bruce Scott 12 42 1
+Riverfront Coliseum, Cincinnati W-TKO 1/6
+event
+bout
+score
+wiki
+1:13    
+Pro debut for Tubbs.
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

@@ -1,0 +1,389 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+Jack Palmer
+
+Jack Palmer
+23 11 3
+16 KOs 7 KOs
+2 followers
+Box-pro
+division middle
+status inactive
+bouts 42
+rounds 357
+KOs 69.57%
+career 1896-1916
+debut 1896-10-13
+
+ID# 013662
+birth name Jack Liddell
+sex male
+nationality United Kingdom
+stance orthodox
+height 5′ 10″   /   178cm
+residence Benwell, Tyne and Wear, United Kingdom
+birth place Newcastle, Tyne and Wear, United Kingdom
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 42 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+1916-07-05 Fank Ray debut
+St James Hall, Newcastle L-KO 2/10
+event
+bout
+score
+wiki
+1909-12-28 Frank Inglis 12 7 0
+National AC, Glasgow L-KO 15/20
+event
+bout
+score
+wiki
+ref: Willie Gibson
+Sporting Life - Wednesday 29 December 1909 p 7
+1909-03-25 Bartley Connolly 25 10 25
+Drill Hall, Birkenhead D-PTS 20/20
+event
+bout
+score
+wiki
+Yorkshire Post and Leeds Intelligencer - Friday 26 March 1909 P 12
+1908-02-10 168 Tommy Burns 175 37 3 8
+Wonderland, Whitechapel Road, Whitechapel L-KO 4/20
+event
+bout
+score
+wiki
+ref: Robert P Watson
+World Heavyweight Title
+Sporting Life - Tuesday 11 February 1908 p 4
+Palmer down nine times in the bout before the knockout.
+1907-03-26 Jack Twin Sullivan 35 8 31
+Naud Junction Pavilion, Los Angeles L-KO 10/20
+event
+bout
+score
+wiki
+1907-01-19 Eddie Dixon debut
+Queens Hall, Edinburgh NC-NC 7/10
+event
+bout
+score
+wiki
+ref: Matthew Livingstone
+Sporting Life - Monday 21 January 1907 p 5
+The referee declared a no contest as both boxers were using illegal tactics
+1906-12-22 Young John L
+Sullivan 2 3 0
+Ginnetts Circus, Newcastle W-KO 2/20 x 2
+event
+bout
+score
+wiki
+1906-10-29 173 Gunner Moir 180 10 3 0
+National Sporting Club, Covent Garden L-DQ 9/20
+event
+bout
+score
+wiki
+ref: John Herbert Douglas
+National Sporting Club (1891-1929) British Heavy
+Billed English heavyweight title
+Sporting Life - Tuesday 30 October 1906 p 4
+1905-12-18 Geoff Thorne 6 4 0
+National Sporting Club, Covent Garden W-KO 4/20
+event
+bout
+score
+wiki
+ref: Jack Douglas
+National Sporting Club (1891-1929) British Heavy (vacant)
+Billed vacant English heavyweight title
+Sporting Life - Tuesday 19 December 1905 p 4
+1904-12-24 Mike Williams 9 0 0
+Wanderers Hall, Johannesburg W-DQ 7/20
+event
+bout
+score
+wiki
+Boxing South Africa South African Heavy
+1904-06-04 160½ Mike Williams 168 6 0 0
+Wanderers Hall, Johannesburg L-KO 8/20
+event
+bout
+score
+wiki
+ref: DC Maturin
+Boxing South Africa South African Heavy
+1904-05-07 156 Jack Lalor 150 22 4 2
+Wanderers Hall, Johannesburg W-PTS 20/20
+event
+bout
+score
+wiki
+Boxing South Africa South African Middle
+Commonwealth Boxing Council Middle
+BBBC Boxing Yearbook 2005
+1904-01-09 Jack Lalor 19 4 2
+Good Hope Hall, Cape Town L-PTS 20/20
+event
+bout
+score
+wiki
+Date uncertain
+1903-12-14 Sergeant Tom Harris 7 4 3
+Standard Theatre, Gateshead W-RTD 2/15
+event
+bout
+score
+wiki
+ref: Bert Dorman
+BBBC Boxing Yearbook 2005
+1903-07-27 158 Frank Craig 159 46 23 5
+Ginnetts Circus, Newcastle W-DQ 12/15
+event
+bout
+score
+wiki
+ref: JR Smoult
+Sporting Life - Tuesday 28 July 1903 p 4
+1903-05-25 156 Jack Twin Sullivan 153 20 2 17
+National Sporting Club, Covent Garden D-PTS 15/15
+event
+bout
+score
+wiki
+Billed World 158lbs Middleweight Title
+Sheffield Daily Telegraph - Tuesday 26 May 1903
+1903-05-02 Ben Taylor 12 4 3
+Ginnetts Circus, Newcastle W-KO 12/20
+event
+bout
+score
+wiki
+ref: Sam Francis
+Billed:English Heavyweight Title
+BBBC Boxing Yearbook 2006
+1902-11-24 156 Eddie Connolly 145 26 19 17
+National Sporting Club, Covent Garden W-PTS 15/15
+event
+bout
+score
+wiki
+ref: John Herbert Douglas
+National Sporting Club (1891-1929) British Middle
+Billed English 158lbs Middleweight title
+Connolly not eligible to box for the English title
+Sporting Life - Tuesday 25 November 1902 p 4
+1902-10-23 Tom Smith 1 1 0
+The National AC, Marylebone W-KO 2/15
+event
+bout
+score
+wiki
+ref: Professor Murray
+Billed English 158lbs Middleweight Title
+Sporting Life - Friday 24 October 1902 p 4
+1902-09-13 Harry Slounch Dixon 18 3 1
+Ginnetts Circus, Newcastle W-KO 5/10
+event
+bout
+score
+wiki
+ref: Sam Francis
+Sporting Life - Monday 15 September 1902 p 2
+1902-08-23 Eddie Connolly 26 17 17
+Ginnetts Circus, Newcastle W-TKO 6/15
+event
+bout
+score
+wiki
+ref: Tom Gamble
+Sporting Life - Monday 25 August 1902 p 2
+1902-07-19 158 Eddie Connolly 144 26 16 17
+Ginnetts Circus, Newcastle W-PTS 20/20
+event
+bout
+score
+wiki
+ref: JT Hulls
+Sporting Life - Monday 21 July 1902 p 3
+1902-06-23 158 Dave Peters 158 9 3 0
+Prince of Charles Circus, Merthyr Tydfil W-KO 7/20 x 2
+event
+bout
+score
+wiki
+ref: Tom Davies
+Billed English 158lbs & 160lbs Middleweight Title though ruled out as only over 2 minute rounds.
+Sporting Life - Tuesday 24 June 1902 p 4br> For ?100 each and a ?100 purse.
+At one stage, after being knocked out of the ring, Peters was picked up by a spectator and returned to the ring with nothing being said, but when he was knocked out of the ring in the 7th and counted out the crowd were so incensed that the referee had to seek refuge in the nearby Vanguard Inn.
+1902-04-14 156 Joe White 154¼ 1 0 0
+Ginnetts Circus, Newcastle W-KO 11/20
+event
+bout
+score
+wiki
+ref: JR Smoult
+Palmer Claimed English 158lbs Middleweight Title
+Sporting Life - Tuesday 15 April 1902 p 4
+1901-12-09 158 Charlie McKeever 156 44 12 13
+Ginnetts Circus, Newcastle NC-NC 2/15
+event
+bout
+score
+wiki
+ref: Ed Plummer
+Palmer fouled repeatedly and the crowd broke up the bout. The referee declared it "no contest."
+Sporting Life - Tuesday 10 December 1901 p 4
+1901-11-11 164 Jim Styles 152 14 6 0
+Ginnetts Circus, Newcastle W-KO 11/20
+event
+bout
+score
+wiki
+ref: JR Smoult
+BBBC Boxing Yearbook 2005
+1901-10-07 Harry Smith 1 5 1
+Leeds and County Athletic Club, Leeds W-KO 7/12
+event
+bout
+score
+wiki
+ref: Jack Haggarty
+Sporting Life - Tuesday 08 October 1901 p 4
+1901-09-23 164 Jack Scales 175 12 7 0
+Ginnetts Circus, Newcastle L-KO 11/20
+event
+bout
+score
+wiki
+ref: George Tom Dunning
+Billed:English Heavyweight Title
+Sporting Life - Wednesday 25 September 1901 P 8
+1901-08-24 Harry Barrett 6 4 0
+Ginnetts Circus, Newcastle W-PTS 10/10
+event
+bout
+score
+wiki
+BBBC Boxing Yearbook 2005
+1901-06-24 154 Lachie Thomson 158 11 16 0
+Ginnetts Circus, Newcastle W-KO 5/20
+event
+bout
+score
+wiki
+ref: George Tom Dunning
+Sporting Life - Tuesday 25 June 1901 p 4
+1901-04-22 Andrew Cock Robin 1 0 0
+Ginnetts Circus, Newcastle W-KO 4/20
+event
+bout
+score
+wiki
+ref: Ed Plummer
+BBBC Boxing Yearbook 2005
+1901-02-11 161 Jack Mullen 161 2 0 0
+Ginnetts Circus, Newcastle W-KO 15/20
+event
+bout
+score
+wiki
+ref: Tom Gamble
+Northern Pitmans Heavyweight Title
+Sporting Life - Tuesday 12 February 1901 p 4
+1900-12-03 140 Jack Mullen 158 1 0 0
+Standard Theatre, Gateshead L-PTS 20/20
+event
+bout
+score
+wiki
+ref: Jas Gorton
+North Pitmens heavyweight Title
+Sporting Life - Tuesday 04 December 1900 p 4
+1900-06-16 W Jackson debut
+Ginnetts Circus, Newcastle NC-ND 3/3
+event
+bout
+score
+wiki
+1900-04-21 George Bell 2 1 0
+Ginnetts Circus, Newcastle D-PTS 4/4
+event
+bout
+score
+wiki
+1900-03-19 Jack Farley 13 9 1
+Ginnetts Circus, Newcastle W-PTS 8/8 x 2
+event
+bout
+score
+wiki
+ref: Sam Francis
+Sporting Life - Tuesday 20 March 1900 p 4
+1900-03-17 A Russell debut
+Ginnetts Circus, Newcastle NC-ND 3/3
+event
+bout
+score
+wiki
+1900-01-20 R O'Neill debut
+Ginnetts Circus, Newcastle NC-ND 5/5
+event
+bout
+score
+wiki
+1899-05-16 Tom Dixon 2 0 1
+Corn Exchange, Shrewsbury L-PTS 8/8
+event
+bout
+score
+wiki
+ref: James Lowe
+Sporting Life - Saturday 20 May 1899 p 2
+1899-02-01 Bob Todd 0 1 0
+Ginnetts Circus, Newcastle W-KO 1/10
+event
+bout
+score
+wiki
+Date uncertain
+1898-12-05 Jack Fulton debut
+Standard Theatre, Gateshead L-KO 1/10
+event
+bout
+score
+wiki
+ref: Charlie Beadling
+Sporting Life - Tuesday 06 December 1898 p 4
+1896-10-13 A McQuirk debut
+Percy Cottage Saloon, Newcastle W-KO 4/6
+event
+bout
+score
+wiki
+Sporting Life - Monday 21 July 1902 p 3
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU

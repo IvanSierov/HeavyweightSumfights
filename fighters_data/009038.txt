@@ -1,0 +1,540 @@
+shop
+wiki
+forum
+follow
+subscribe
+ratings
+schedule
+results
+date
+champions
+people
+events
+clubs
+titles
+score
+p4p
+Floyd Patterson
+
+Floyd Patterson
+55 8 1
+40 KOs 5 KOs
+118 followers
+Box-pro Box-am All Bouts referee
+division heavy
+status inactive
+bouts 64
+rounds 419
+KOs 72.73%
+career 1952-1972
+debut 1952-09-12
+
+ID# 009038
+sex male
+nationality USA
+stance orthodox
+height 6′ 0″   /   183cm
+reach 71″   /   180cm
+residence Brooklyn, New York, USA
+birth place Waco, North Carolina, USA
+wiki
+Billam-Smith vs Rozicki - Gloves Are...
+Billam-Smith and Rozicki in tense...
+<
+>
+Box-pro 64 bouts
+date ↕
+lbs ↓
+lbs ↓
+w-l-d last 6 result rounds
+1972-09-20 188½ Muhammad Ali 218 38 1 0
+Madison Square Garden, New York L-RTD 7/12
+event
+bout
+score
+wiki
+3:00    ref: Arthur Mercante 1-6   Tony Castellano 3-3   Jack Gordon 2-4
+North American Boxing Federation Heavy
+Fight stopped on cuts and swelling around Patterson's eyes
+1972-07-14 193½ Pedro Agosto 196 22 3 0
+Singer Bowl, Flushing, Queens W-TKO 6/10
+event
+bout
+score
+wiki
+3:00    ref: Arthur Mercante 6-0   Tony Castellano 6-0   Harold Lederman 5-1
+Bout stopped on cuts.
+1972-02-11 191¾ Oscar Bonavena 206 47 7 1
+Madison Square Garden, New York W-UD 10/10
+event
+bout
+score
+wiki
+ref: Johnny LoBianco 5-4   Tony Castellano 6-4   Bill Recht 7-2
+Patterson down in the 4th.
+1971-11-23 195 Charlie Harris 218½ 7 13 1
+Multnomah County Expo Center, Portland W-KO 6/10
+event
+bout
+score
+wiki
+2:31    ref: Bill Thornburg
+1971-08-21 189 Vic Brown 198 23 18 0
+Peace Bridge Arena, Buffalo W-UD 10/10
+event
+bout
+score
+wiki
+ref: Arthur Mercante 9-1   Tony Castellano 10-0   Richard Fay 10-0
+1971-07-17 190 Charley Polite 222 13 19 3
+Erie Arena, Erie W-UD 10/10
+event
+bout
+score
+wiki
+ref: Buck McTiernan 49-39   Andy DePaul 50-40    50-40
+1971-05-26 190½ Terry Daniels 188½ 24 2 1
+Arena, Cleveland W-UD 10/10
+event
+bout
+score
+wiki
+ref: John Christopher 49-41   Jimmy Bivins 50-41   Tony LaBranch 50-40
+1971-03-29 192 Roger Russell 185 11 8 2
+Arena, Philadelphia W-TKO 9/10
+event
+bout
+score
+wiki
+1:29    ref: Zach Clayton
+1971-01-15 192¼ Levi Forte 199¼ 20 22 2
+Convention Center, Miami Beach W-KO 2/10
+event
+bout
+score
+wiki
+2:20    ref: Cy Gottfried
+Changed date to Friday per Sat 1/16 Miami News detailing fight.
+1970-09-15 186 Charley Green 184 13 6 0
+Madison Square Garden, New York W-KO 10/10
+event
+bout
+score
+wiki
+1:57    ref: Tony Perez
+1968-09-14 188½ Jimmy Ellis 198 26 5 0
+Råsunda Fotbollsstadion, Stockholm L-PTS 15/15
+event
+bout
+score
+wiki
+ref: Harold Valan 6-9
+1967-10-28 195 Jerry Quarry 193 24 1 4
+Olympic Auditorium, Los Angeles L-MD 12/12
+event
+bout
+score
+wiki
+ref: Vern Bybee 6-6   Lee Grossman 6-7   Joey Olmos 6-7
+Elimination Tournament for WBA Heavyweight Title
+(Ellis-Martin/Bonavena-Mildenberger/Quarry-Patterson/Spencer-Terrell)
+Patterson down in the 2nd round and again in the 4th
+1967-06-09 194 Jerry Quarry 193 23 1 3
+Memorial Coliseum, Los Angeles D-MD 10/10
+event
+bout
+score
+wiki
+ref: John Thomas 5-5   George Latka 6-7   Dick Young 6-6
+Patterson down twice in the 2nd, Quarry down in the 7th
+1967-03-30 197 Bill McMurray 209½ 25 16 2
+Civic Arena, Pittsburgh W-KO 1/10
+event
+bout
+score
+wiki
+2:37    ref: Buck McTiernan
+1967-02-13 200¼ Willie Johnson 183½ 14 20 1
+Auditorium, Miami Beach W-KO 3/10
+event
+bout
+score
+wiki
+2:05    ref: Cy Gottfried
+1966-09-20 193 Henry Cooper 191¾ 33 12 1
+Empire Pool, Wembley W-KO 4/10
+event
+bout
+score
+wiki
+2:10    ref: Wally Thom
+Cooper was knocked down three times.
+1965-11-22 196¾ Muhammad Ali 210 21 0 0
+Convention Center, Las Vegas L-TKO 12/15
+event
+bout
+score
+wiki
+2:18    ref: Harold Krause 46-53   Harold Buck 45-54   Bill Stremmell 43-53
+WBC World Heavy
+1965-05-14 196½ Tod Herring 212 26 3 0
+Johanneshov, Stockholm W-TKO 3/10
+event
+bout
+score
+wiki
+0:40    ref: Teddy Waltham
+1965-02-01 197¼ George Chuvalo 208 29 8 2
+Madison Square Garden, New York W-UD 12/12
+event
+bout
+score
+wiki
+ref: Zach Clayton 6-5   Joe Armstrong 8-4   Tony Castellano 7-5
+1964-12-12 197 Charlie Powell 213 25 9 3
+Estadio Hiram Bithorn, San Juan W-KO 6/10
+event
+bout
+score
+wiki
+1:21    ref: Jersey Joe Walcott
+1964-07-05 192½ Eddie Machen 198½ 47 4 2
+Råsunda, Solna W-PTS 12/12
+event
+bout
+score
+wiki
+ref: Teddy Waltham 59-49
+1964-01-06 192 Santo Amonti 191 47 4 3
+Johanneshov, Stockholm W-TKO 8/10
+event
+bout
+score
+wiki
+2:25    ref: Andrew Smyth
+Amonti down in 2nd, 4th and 8th
+1963-07-22 194½ Sonny Liston 215½ 34 1 0
+Convention Center, Las Vegas L-KO 1/15
+event
+bout
+score
+wiki
+2:10    ref: Harold Krause
+World Heavyweight Title
+Patterson down 3 times
+1962-09-25 189 Sonny Liston 213 33 1 0
+Comiskey Park, Chicago L-KO 1/15
+event
+bout
+score
+wiki
+2:06    ref: Frank Sikora   John Bray   Harold Marovitz
+World Heavyweight Title
+1961-12-04 188½ Tom McNeeley 197 23 0 0
+Maple Leaf Gardens, Toronto W-KO 4/15
+event
+bout
+score
+wiki
+2:51    ref: Jersey Joe Walcott 3-0   Billy Burke 3-0   Arch Hindman 3-0
+World Heavyweight Title
+McNeeley was floored eleven times.
+1961-03-13 194¾ Ingemar Johansson 206½ 22 1 0
+Convention Center, Miami Beach W-KO 6/15
+event
+bout
+score
+wiki
+2:45    ref: Bill Regan   Carl Gardner   Gus Jacobson
+World Heavyweight Title
+Patterson was knocked down twice in the 1st round, Johansson was then knocked down at the end of the 1st. Johansson was floored for an abbreviated count in the 6th from a punch to the back of the head.
+1960-06-20 190 Ingemar Johansson 194¾ 22 0 0
+Polo Grounds, New York W-KO 5/15
+event
+bout
+score
+wiki
+1:51    ref: Arthur Mercante   Artie Aidala   Leo Birnbaum
+World Heavyweight Title
+1959-06-26 182 Ingemar Johansson 196 21 0 0
+Yankee Stadium, The Bronx L-TKO 3/15
+event
+bout
+score
+wiki
+2:03    ref: Ruby Goldstein 2-0   Frank Forbes 2-0   Bill Recht 1-1
+World Heavyweight Title
+Patterson down 7 times in third
+1959-05-01 182½ Brian London 206 22 4 0
+Fairgrounds Coliseum, Indianapolis W-KO 11/15
+event
+bout
+score
+wiki
+0:51    ref: Frank Sikora
+World Heavyweight Title
+1958-08-18 184½ Roy Harris 194 23 0 0
+Wrigley Field, Los Angeles W-RTD 12/15
+event
+bout
+score
+wiki
+ref: Mushy Callahan 117-97   Tommy Hart 117-98   Frankie Van 116-102
+World Heavyweight Title
+1957-08-22 187¼ Pete Rademacher 202 debut
+Sicks' Stadium, Seattle W-KO 6/15
+event
+bout
+score
+wiki
+2:57    ref: Tommy Loughran
+World Heavyweight Title
+Rademacher, the 1956 Olympic Heavyweight Gold Medalist, was making his professional debut. Rademacher was knocked down six times, Patterson was knocked down in the 2nd round.
+1957-07-29 184 Tommy Jackson 192½ 29 5 1
+Polo Grounds, New York W-TKO 10/15
+event
+bout
+score
+wiki
+1:52    ref: Ruby Goldstein 9-0¼   Joe Agnello 9-0¼   Bill Recht 9-0¼
+World Heavyweight Title
+1956-11-30 182¼ Archie Moore 187¾ 160 20 8
+Chicago Stadium, Chicago W-KO 5/15
+event
+bout
+score
+wiki
+2:27    ref: Frank Sikora 20-17   John Bray 18-18   Jim McManus 20-16
+Vacant World Heavyweight Title
+1956-06-08 178 Tommy Jackson 193½ 27 4 1
+Madison Square Garden, New York W-SD 12/12
+event
+bout
+score
+wiki
+ref: Harry Kessler 5-6   Harold Barnes 8-4   Bert Grant 7-5
+World Heavyweight Title Eliminator
+1956-04-10 183 Alvin Williams 176 51 12 6
+Memorial Hall, Kansas City W-KO 3/10
+event
+bout
+score
+wiki
+1:58    ref: Mel Appling
+1956-03-12 183 Jimmy Walls 192 21 40 2
+New Britain W-TKO 2/10
+event
+bout
+score
+wiki
+2:29    ref: Max Muravnick
+Walls was down once in the 1st and twice in the 2nd.
+1955-12-08 178½ Jimmy Slade 180 35 15 5
+Olympic Auditorium, Los Angeles W-TKO 7/10
+event
+bout
+score
+wiki
+2:05    ref: Dynamite Jackson 37½-28½
+1955-10-13 175 Calvin Brad 174½ 9 5 1
+Olympic Auditorium, Los Angeles W-KO 1/10
+event
+bout
+score
+wiki
+2:58    ref: Frankie Van
+Brad was knocked down twice.
+1955-09-29 175½ Dave Whitlock 181 34 14 2
+Winterland Arena, San Francisco W-KO 3/10
+event
+bout
+score
+wiki
+0:52    ref: Jack Silver
+1955-09-08 177 Alvin Williams 172 50 11 6
+Moncton Stadium, Moncton W-TKO 8/10
+event
+bout
+score
+wiki
+2:28    ref: Petey Scalzo
+1955-07-06 170¾ Archie McBride 186¼ 27 9 0
+Madison Square Garden, New York W-KO 7/10
+event
+bout
+score
+wiki
+1:46    ref: Al Berl 3-3   Artie Aidala 5-1   Harold Barnes 4-2
+McBride was down three times
+1955-06-23 170 Yvon Durelle 170 56 12 1
+Sinclair Arena, Newcastle W-RTD 5/10
+event
+bout
+score
+wiki
+ref: Petey Scalzo   Jimmy Laidlaw   Jack McAllister
+1955-03-17 169 Esau Ferdinand 174 44 12 8
+Auditorium, Oakland W-TKO 10/10
+event
+bout
+score
+wiki
+2:49    ref: Ray Flores
+Ferdinand was down in the 7th round
+1955-01-17 168 Don Grant 166¾ 16 1 0
+Eastern Parkway Arena, Brooklyn W-TKO 5/10
+event
+bout
+score
+wiki
+1:13    ref: Barney Felix 4-0   Joe Agnello 4-0   Leo Birnbaum 4-0
+1955-01-07 166 Willie Troy 162 30 2 0
+Madison Square Garden, New York W-RTD 5/8
+event
+bout
+score
+wiki
+3:00    ref: Al Berl 5-0   Artie Aidala 5-0   Harold Barnes 4-1
+1954-11-19 169¼ Jimmy Slade 175 31 11 5
+Madison Square Garden, New York W-UD 8/8
+event
+bout
+score
+wiki
+ref: Harry Kessler 8-0¼   George Barnes 8-0¼   Jack Gordon 7-0¼
+Slade was down twice in the 1st, as well as once in the 2nd, 3rd, and 8th rounds. Slade's purse was held by the commission following his performance, which accused him of running away for most of the bout.
+1954-10-22 170¼ Joe Gannon 174 32 3 0
+Madison Square Garden, New York W-UD 8/8
+event
+bout
+score
+wiki
+ref: Al Berl 6-1   Artie Aidala 6-2   Bert Grant 6-2
+Gannon out at the final bell
+1954-10-11 169¼ Esau Ferdinand 166 43 11 8
+St. Nicholas Arena, New York W-UD 8/8
+event
+bout
+score
+wiki
+ref: Ray Miller 7-0   Joe Eppy 7-1   Americo Schiavone 7-1
+1954-08-02 169 Tommy Harrison 176¼ 23 9 2
+Eastern Parkway Arena, Brooklyn W-TKO 1/8
+event
+bout
+score
+wiki
+1:29    ref: Mark Conn
+1954-07-12 164¾ Jacques Royer Crecy 166 38 15 1
+St. Nicholas Arena, New York W-TKO 7/8
+event
+bout
+score
+wiki
+ref: Mark Conn 5-1   Bert Grant 5-1   Arthur Schwartz 4-1
+Patterson was knocked down in the 1st for a six count. Bout was stopped on a bad cut over Royer-Crecy's right eye.
+1954-06-07 168 Joey Maxim 177 80 21 4
+Eastern Parkway Arena, Brooklyn L-UD 8/8
+event
+bout
+score
+wiki
+ref: Ruby Goldstein 3-4   Joe Eppy 3-5   Young Otto 1-7
+1954-05-10 165½ Jesse Turner 157¾ 35 16 5
+Eastern Parkway Arena, Brooklyn W-UD 8/8
+event
+bout
+score
+wiki
+ref: Mark Conn 7-1   Artie Aidala 7-1   Dave Stewart 8-0
+1954-04-19 167 Alvin Williams 172¾ 45 10 6
+Eastern Parkway Arena, Brooklyn W-UD 8/8
+event
+bout
+score
+wiki
+ref: Teddy Martin 7-1   Joe Agnello 8-0   Bill Recht 6-1
+1954-03-30 167 Sammy Brown 168½ 6 1 0
+Turner's Arena, Washington W-TKO 2/10
+event
+bout
+score
+wiki
+1:40    ref: Ray Bowen
+Brown was down twice in the 1st, and once in the 2nd.
+1954-02-15 167 Yvon Durelle 171 48 6 1
+Eastern Parkway Arena, Brooklyn W-UD 8/8
+event
+bout
+score
+wiki
+ref: Abe Simon 5-2   Leo Birnbaum 5-3   Joe Eppy 5-3
+Simon took the 8th round away from Patterson, due to a rabbit punch.
+1953-12-14 168 Dick Wagner 177 34 19 5
+Eastern Parkway Arena, Brooklyn W-TKO 5/8
+event
+bout
+score
+wiki
+2:29    ref: George Walsh
+Wagner was knocked down twice in the 3rd and once in the 5th.
+1953-10-19 166½ Wes Bascom 175¾ 16 7 1
+Eastern Parkway Arena, Brooklyn W-UD 8/8
+event
+bout
+score
+wiki
+ref: Ruby Goldstein 6-1   Tony Rossi 5-2   Arthur Schwartz 7-1
+1953-06-01 165 Gordon Wallace 163 26 3 1
+Eastern Parkway Arena, Brooklyn W-TKO 3/8
+event
+bout
+score
+wiki
+0:52    ref: Ray Miller
+Wallace was down four times
+1953-04-13 166½ Dick Wagner 175½ 34 18 5
+Eastern Parkway Arena, Brooklyn W-SD 8/8
+event
+bout
+score
+wiki
+ref: Teddy Martin 3-4   Joe Agnello 5-3   Bert Grant 6-2
+1953-01-28 163½ Chester Mieszala 160 19 7 1
+Chicago Stadium, Chicago W-TKO 5/6
+event
+bout
+score
+wiki
+1:25    ref: Bill Doty   Frank Clark   Harold Marovitz
+Mieszala down in round 1 and round 3. Mieszala stopped on his feet.
+1952-12-29 167½ Lalu Sabotin 175 21 6 0
+Eastern Parkway Arena, Brooklyn W-TKO 5/8
+event
+bout
+score
+wiki
+1:30    ref: Mark Conn
+1952-10-31 165 Lester Jackson 163 8 9 1
+Madison Square Garden, New York W-TKO 3/6
+event
+bout
+score
+wiki
+1:26    ref: George Walsh
+1952-10-06 166 Sammy Walker 161¼ 37 32 6
+Eastern Parkway Arena, Brooklyn W-TKO 2/6
+event
+bout
+score
+wiki
+1952-09-12 164½ Eddie Godbold 163 5 14 1
+St. Nicholas Arena, New York W-TKO 4/6
+event
+bout
+score
+wiki
+2:39    ref: Barney Felix
+©BoxRec is the official record keeper for 559 sports authorities worldwide, it is not under direct control of any single authority. Data may be incomplete/inaccurate.
+Editors   About   Contact   Help   Widgets   Terms   Privacy Policy  
+EN     CN     DE     ES     FR     PL     RU
